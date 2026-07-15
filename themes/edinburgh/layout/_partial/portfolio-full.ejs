@@ -11,11 +11,28 @@
   </header>
 
   <figure class="entry-cover">
-    <img class="project-img" src="<%- url_for(item.cover_image || theme.default_cover_image) %>" alt="<%- item.title || theme.default_post_title || 'Untitled' %>">
+    <a class="entry-cover-link" href="<%- url_for(item.cover_image || theme.default_cover_image) %>" target="_blank" rel="noopener" aria-label="查看大图：<%- item.title || theme.default_post_title || 'Untitled' %>">
+      <img class="project-img" src="<%- url_for(item.cover_image || theme.default_cover_image) %>" alt="<%- item.title || theme.default_post_title || 'Untitled' %>">
+    </a>
   </figure>
+
+  <% if (item.route || item.photo_count || item.medium) { %>
+    <dl class="entry-facts" aria-label="本篇日志信息">
+      <% if (item.route) { %>
+        <div class="entry-fact entry-fact--route"><dt>ROUTE</dt><dd><%- item.route %></dd></div>
+      <% } %>
+      <% if (item.photo_count) { %>
+        <div class="entry-fact"><dt>PHOTOGRAPHS</dt><dd><%= item.photo_count %> 张</dd></div>
+      <% } %>
+      <% if (item.medium) { %>
+        <div class="entry-fact"><dt>MEDIUM</dt><dd><%- item.medium %></dd></div>
+      <% } %>
+    </dl>
+  <% } %>
 
   <div class="entry-layout">
     <aside class="entry-aside">
+      <p class="entry-aside-label">JOURNAL</p>
       <p>记录于</p>
       <time datetime="<%- date_xml(item.date) %>"><%- date(item.date, config.date_format) %></time>
       <% if (item.tags && item.tags.length) { %>
@@ -23,6 +40,10 @@
           <% item.tags.forEach(function(tag){ %><li>#<%- tag.name %></li><% }); %>
         </ul>
       <% } %>
+      <nav class="entry-toc" aria-label="本文目录" hidden>
+        <p>沿途</p>
+        <ol></ol>
+      </nav>
     </aside>
     <div class="portfolio-content entry-content"><%- item.content %></div>
   </div>

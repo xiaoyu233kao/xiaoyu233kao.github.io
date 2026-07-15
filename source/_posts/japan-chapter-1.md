@@ -2,6 +2,11 @@
 title: 日本·第一章｜从东京一路向西
 date: 2025-08-04 09:42:57
 cover_image: /images/japan-chapter-1/01-tokyo-retro-bus.jpg
+route: 东京 → 江之岛 → 伊豆 → 福井 → 丰乡 → 山崎 → 大阪
+photo_count: 45
+medium: 数码 · 胶片
+description: 从东京一路向西，记录电车、海风、花火、陌生人的善意，以及数码与胶片留下的不同记忆。
+excerpt: 从东京一路向西，记录电车、海风、花火、陌生人的善意，以及数码与胶片留下的不同记忆。
 categories:
   - 旅行
 tags:

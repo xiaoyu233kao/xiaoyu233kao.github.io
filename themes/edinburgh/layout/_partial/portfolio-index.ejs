@@ -1,7 +1,10 @@
 <article class="portfolio-card<%= featured ? ' portfolio-card-featured' : '' %>">
-  <a class="portfolio-image-link" href="<%- url_for(item.path) %>" aria-label="查看：<%- item.title %>">
-    <img class="portfolio-img" src="<%- url_for(item.cover_image || theme.default_cover_image) %>" alt="<%- item.title || theme.default_post_title || 'Untitled' %>" loading="<%= featured ? 'eager' : 'lazy' %>">
-  </a>
+  <div class="portfolio-image-wrap">
+    <a class="portfolio-image-link" href="<%- url_for(item.path) %>" aria-label="查看：<%- item.title %>">
+      <img class="portfolio-img" src="<%- url_for(item.cover_image || theme.default_cover_image) %>" alt="<%- item.title || theme.default_post_title || 'Untitled' %>" loading="<%= featured ? 'eager' : 'lazy' %>">
+    </a>
+    <span class="portfolio-sequence" aria-hidden="true"><%= String((index || 0) + 1).padStart(2, '0') %></span>
+  </div>
   <div class="portfolio-meta">
     <time datetime="<%- date_xml(item.date) %>"><%- date(item.date, config.date_format) %></time>
     <% if (item.categories && item.categories.length) { %>
@@ -11,5 +14,11 @@
   <h2><a href="<%- url_for(item.path) %>"><%- item.title || theme.default_post_title || 'Untitled' %></a></h2>
   <% if (item.excerpt) { %>
     <p class="portfolio-excerpt"><%- strip_html(item.excerpt) %></p>
+  <% } %>
+  <% if (item.route || item.photo_count) { %>
+    <div class="portfolio-details">
+      <% if (item.route) { %><p class="portfolio-route"><span>ROUTE</span><%- item.route %></p><% } %>
+      <% if (item.photo_count) { %><p class="portfolio-photo-count"><%= item.photo_count %> PHOTOGRAPHS</p><% } %>
+    </div>
   <% } %>
 </article>

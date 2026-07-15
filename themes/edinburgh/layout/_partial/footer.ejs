@@ -1,6 +1,7 @@
 <footer class="site-footer">
   <p>© <%= date(new Date(), 'YYYY') %> <%- config.title %></p>
   <p>日常、旅行与途中光线</p>
+  <a class="back-to-top" href="#">回到顶部 ↑</a>
 </footer>
 
 <script>
@@ -12,5 +13,108 @@
       toggle.setAttribute('aria-expanded', String(!expanded));
       navigation.classList.toggle('is-open');
     });
+    navigation.querySelectorAll('a').forEach((link) => link.addEventListener('click', () => {
+      toggle.setAttribute('aria-expanded', 'false');
+      navigation.classList.remove('is-open');
+    }));
   }
+
+  const progress = document.querySelector('.reading-progress span');
+  const updateProgress = () => {
+    if (!progress || !document.body.classList.contains('page-post')) return;
+    const height = document.documentElement.scrollHeight - window.innerHeight;
+    progress.style.transform = `scaleX(${height > 0 ? Math.min(window.scrollY / height, 1) : 0})`;
+  };
+  updateProgress();
+  window.addEventListener('scroll', updateProgress, { passive: true });
+  window.addEventListener('resize', updateProgress);
+
+  const contentHeadings = Array.from(document.querySelectorAll('.entry-content > h2'));
+  const toc = document.querySelector('.entry-toc');
+  if (toc && contentHeadings.length) {
+    const list = toc.querySelector('ol');
+    contentHeadings.forEach((heading, index) => {
+      heading.id = heading.id || `journal-section-${index + 1}`;
+      const item = document.createElement('li');
+      const link = document.createElement('a');
+      link.href = `#${heading.id}`;
+      link.textContent = heading.textContent;
+      link.addEventListener('click', () => setTimeout(() => history.replaceState(null, '', link.hash), 0));
+      item.appendChild(link);
+      list.appendChild(item);
+    });
+    toc.hidden = false;
+
+    const tocLinks = Array.from(list.querySelectorAll('a'));
+    const updateToc = () => {
+      let activeIndex = 0;
+      contentHeadings.forEach((heading, index) => {
+        if (heading.getBoundingClientRect().top <= 180) activeIndex = index;
+      });
+      tocLinks.forEach((link, index) => link.classList.toggle('is-active', index === activeIndex));
+    };
+    updateToc();
+    window.addEventListener('scroll', updateToc, { passive: true });
+  }
+
+  const lightbox = document.querySelector('.photo-lightbox');
+  const photoLinks = Array.from(document.querySelectorAll('.entry-cover-link, .photo-tile'));
+  if (lightbox && photoLinks.length) {
+    const lightboxImage = lightbox.querySelector('.lightbox-image');
+    const lightboxCaption = lightbox.querySelector('.lightbox-caption');
+    const closeButton = lightbox.querySelector('.lightbox-close');
+    let currentPhoto = 0;
+    let lastFocus = null;
+
+    const showPhoto = (index) => {
+      currentPhoto = (index + photoLinks.length) % photoLinks.length;
+      const link = photoLinks[currentPhoto];
+      const sourceImage = link.querySelector('img');
+      lightboxImage.src = link.href;
+      lightboxImage.alt = sourceImage ? sourceImage.alt : '';
+      lightboxCaption.textContent = `${String(currentPhoto + 1).padStart(2, '0')} / ${String(photoLinks.length).padStart(2, '0')}  ${sourceImage ? sourceImage.alt : ''}`;
+    };
+
+    const openLightbox = (index, trigger) => {
+      lastFocus = trigger;
+      showPhoto(index);
+      lightbox.hidden = false;
+      document.body.classList.add('lightbox-open');
+      requestAnimationFrame(() => lightbox.classList.add('is-open'));
+      closeButton.focus();
+    };
+
+    const closeLightbox = () => {
+      lightbox.classList.remove('is-open');
+      document.body.classList.remove('lightbox-open');
+      window.setTimeout(() => {
+        lightbox.hidden = true;
+        lightboxImage.src = '';
+      }, 180);
+      if (lastFocus) lastFocus.focus();
+    };
+
+    photoLinks.forEach((link, index) => link.addEventListener('click', (event) => {
+      event.preventDefault();
+      openLightbox(index, link);
+    }));
+    closeButton.addEventListener('click', closeLightbox);
+    lightbox.querySelector('.lightbox-prev').addEventListener('click', () => showPhoto(currentPhoto - 1));
+    lightbox.querySelector('.lightbox-next').addEventListener('click', () => showPhoto(currentPhoto + 1));
+    lightbox.addEventListener('click', (event) => {
+      if (event.target === lightbox) closeLightbox();
+    });
+    document.addEventListener('keydown', (event) => {
+      if (lightbox.hidden) return;
+      if (event.key === 'Escape') closeLightbox();
+      if (event.key === 'ArrowLeft') showPhoto(currentPhoto - 1);
+      if (event.key === 'ArrowRight') showPhoto(currentPhoto + 1);
+    });
+  }
+
+  const backToTop = document.querySelector('.back-to-top');
+  if (backToTop) backToTop.addEventListener('click', (event) => {
+    event.preventDefault();
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
 </script>
