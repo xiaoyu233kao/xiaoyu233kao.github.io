@@ -15,146 +15,202 @@ tags:
   - 胶片
 ---
 
-这趟日本旅行从一场雨开始。飞机晚点、转机、落地，再沿着电车一路经过东京、江之岛、伊豆，继续向西到福井、丰乡、山崎和大阪。
+出发以前，我以为这趟旅行最后会被记成一串地名：东京、江之岛、伊豆、福井、丰乡、山崎、大阪。回来以后再翻照片，才发现真正留下来的都很小——电车从别人家门口擦过去，便利店爷爷递来一张时刻表，陌生女孩替我们垫了六百日元，还有雨后那杯像青草味的酒。
 
-后来翻看日记，才发现真正记住的并不只是景点，而是车窗与住宅之间短得不可思议的距离、地铁里包着旧书皮的纸质书、陌生人顺手递来的一点善意，以及雨后街道和海风留下的气味。
+景点当然也去了，照片也拍了很多，但现在想起来，景点反而像路标。真正把路标连起来的，是赶车、找零钱、走错路、临时聊天和坐下来吃一顿饭。旅行最有意思的部分，往往都不在计划表上。
 
-## 8 月 4 日｜东京抵达
+这篇就不认真写攻略了。它更像是把当时的日记重新摊开，一边看数码照片里清楚的细节，一边看胶片那些有点虚、有点偏色，却更接近记忆的画面。
 
-去香港的航班因为大雨晚点了一小时，原定八十分钟的飞行却只用了四十分钟。转往东京的飞机又推迟了二十分钟，直到晚上七点十分才真正抵达日本。
+## 8 月 4 日｜刚到东京，旧东西为什么还在
 
-第一印象是“旧”。白发苍苍的便利店工作人员、复古的自行车和汽车、道路上纠缠的电线，都像是从上世纪的电视剧里保留下来的布景。可这种旧并不显得停滞，它只是安静地和今天生活在一起。
+第一天其实很狼狈。去香港的飞机因为下雨晚点一个小时，原定八十分钟的航程硬是四十分钟飞完，刚爬高没多久就开始下降。转东京的航班又推迟二十分钟，晚上七点十分才落地。那一刻没有什么“终于来到日本”的电影感，脑子里只有：先找到车，先把行李放下，最好还能吃点东西。
 
-<img src="/images/japan-chapter-1/02-tokyo-classic-car.jpg" alt="住宅门前的黑色老爷车" loading="lazy" decoding="async">
+缓过来以后，我才开始注意周围。机场道路边的便利店有不少白发工作人员，自行车还是很老式的样子，路上的车也常常方方正正。电线密得像没人整理过，楼梯和桥下空间则被利用得很彻底，餐馆可以藏在七拐八拐的地下室里。它和想象中那个高效、精密、闪闪发亮的日本不太一样，反倒像某段旧录像一直播放到了今天。
 
-<img src="/images/japan-chapter-1/03-tokyo-temple.jpg" alt="东京寺院与人群" loading="lazy" decoding="async">
+<figure class="photo-grid photo-grid--two">
+  <a class="photo-tile" href="/images/japan-chapter-1/02-tokyo-classic-car.jpg" target="_blank" rel="noopener" aria-label="查看大图：住宅门前的黑色老爷车"><img src="/images/japan-chapter-1/02-tokyo-classic-car.jpg" alt="住宅门前的黑色老爷车" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/japan-chapter-1/03-tokyo-temple.jpg" target="_blank" rel="noopener" aria-label="查看大图：东京寺院与人群"><img src="/images/japan-chapter-1/03-tokyo-temple.jpg" alt="东京寺院与人群" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/japan-chapter-1/04-tokyo-reader.jpg" target="_blank" rel="noopener" aria-label="查看大图：树荫下读书的人"><img src="/images/japan-chapter-1/04-tokyo-reader.jpg" alt="树荫下读书的人" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/japan-chapter-1/05-tokyo-crossing.jpg" target="_blank" rel="noopener" aria-label="查看大图：东京街头与行驶中的巴士"><img src="/images/japan-chapter-1/05-tokyo-crossing.jpg" alt="东京街头与行驶中的巴士" loading="lazy" decoding="async"></a>
+  <figcaption>东京的第一印象：旧车、寺院、纸质书，还有一直在移动的人。</figcaption>
+</figure>
 
-地铁里有人拿着包了褪色皮书套的纸质书，有人戴着有线耳机，也有人低头玩棒球游戏。城市看起来拥挤，却总能从立体交错的楼梯、桥梁和窄路里挤出新的空间。
+最明显的是地铁。有人拿着一本包了褪色皮书套的纸质书，有人用 iPod 和有线耳机，也有人一直玩棒球游戏。第一趟地铁旁边就站着一个玩棒球游戏的女生。我当时觉得很新鲜，后来又觉得，也许这里并不是停在八十年代，只是大家没有那么急着把还能用的东西换掉。
 
-<img src="/images/japan-chapter-1/04-tokyo-reader.jpg" alt="树荫下读书的人" loading="lazy" decoding="async">
+我们平时很容易把“新”理解成进步，把“旧”理解成落后。但在东京走了几天，这个判断开始变得没那么牢靠。东西被继续使用，街区也没有为了看起来整齐就全部推倒重来。它有时确实显得拥挤甚至过时，可生活的痕迹也因此留得更久。
 
-<img src="/images/japan-chapter-1/05-tokyo-crossing.jpg" alt="东京街头与行驶中的巴士" loading="lazy" decoding="async">
+<figure class="photo-grid photo-grid--three">
+  <a class="photo-tile" href="/images/japan-chapter-1/06-tokyo-shop-window.jpg" target="_blank" rel="noopener" aria-label="查看大图：霓虹灯下的商店橱窗"><img src="/images/japan-chapter-1/06-tokyo-shop-window.jpg" alt="霓虹灯下的商店橱窗" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/japan-chapter-1/07-tokyo-night-taxi.jpg" target="_blank" rel="noopener" aria-label="查看大图：夜晚街口的出租车"><img src="/images/japan-chapter-1/07-tokyo-night-taxi.jpg" alt="夜晚街口的出租车" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/japan-chapter-1/08-tokyo-night-corner.jpg" target="_blank" rel="noopener" aria-label="查看大图：东京夜晚的街角"><img src="/images/japan-chapter-1/08-tokyo-night-corner.jpg" alt="东京夜晚的街角" loading="lazy" decoding="async"></a>
+  <figcaption>天黑以后，白天看起来怀旧的街道又亮得很直接。</figcaption>
+</figure>
 
-<img src="/images/japan-chapter-1/06-tokyo-shop-window.jpg" alt="霓虹灯下的商店橱窗" loading="lazy" decoding="async">
+## 8 月 5 日｜电车从生活里穿过去
 
-<img src="/images/japan-chapter-1/07-tokyo-night-taxi.jpg" alt="夜晚街口的出租车" loading="lazy" decoding="async">
+去镰仓和江之岛那天，印象最深的不是海，而是电车。铁轨贴着住宅穿过去，车窗像是离别人家的阳台只有十厘米。有些地方铁轨就挨着人行道，甚至没有想象中那种严严实实的护栏。
 
-<img src="/images/japan-chapter-1/08-tokyo-night-corner.jpg" alt="东京夜晚的街角" loading="lazy" decoding="async">
+第一次看到会觉得危险，坐久了却发现周围的人都很自然。有人等车，有人骑车，有人推开家门，电车从中间经过，几分钟后又安静下来。城市基础设施在这里不是被藏起来的系统，它就明晃晃地挤在日常生活里。
 
-## 8 月 5 日｜江之岛
+<figure class="photo-grid photo-grid--two">
+  <a class="photo-tile" href="/images/japan-chapter-1/14-enoshima-railway-crossing.jpg" target="_blank" rel="noopener" aria-label="查看大图：江之岛海边的铁路道口"><img src="/images/japan-chapter-1/14-enoshima-railway-crossing.jpg" alt="江之岛海边的铁路道口" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/japan-chapter-1/15-enoshima-seaside-sign.jpg" target="_blank" rel="noopener" aria-label="查看大图：蓝天下的江之岛路牌"><img src="/images/japan-chapter-1/15-enoshima-seaside-sign.jpg" alt="蓝天下的江之岛路牌" loading="lazy" decoding="async"></a>
+  <figcaption>铁路、路口和海，在很小的范围里碰到一起。</figcaption>
+</figure>
 
-去镰仓和江之岛的路上，电车紧贴着两边的住宅飞驰。车窗仿佛离房子只有十厘米，有些铁轨就挨着人行道，连护栏也没有。电车、房屋和行人共享同一条狭长的生活缝隙。
+真正走到海边以后，反而没做什么。坐着喝东西，看看人，风太大就换个地方。旅行里这种“没做什么”的时间通常不会写进计划，却最容易在后来被想起。可能因为那时候不需要赶下一站，也不需要证明今天过得很充实，人只是待在那里。
 
-<img src="/images/japan-chapter-1/14-enoshima-railway-crossing.jpg" alt="江之岛海边的铁路道口" loading="lazy" decoding="async">
+<figure class="photo-grid photo-grid--portraits">
+  <a class="photo-tile" href="/images/japan-chapter-1/16-enoshima-sea-through-trees.jpg" target="_blank" rel="noopener" aria-label="查看大图：树影之间的江之岛海面"><img src="/images/japan-chapter-1/16-enoshima-sea-through-trees.jpg" alt="树影之间的江之岛海面" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/japan-chapter-1/18-enoshima-beach-walk.jpg" target="_blank" rel="noopener" aria-label="查看大图：沿着沙滩行走的人"><img src="/images/japan-chapter-1/18-enoshima-beach-walk.jpg" alt="沿着沙滩行走的人" loading="lazy" decoding="async"></a>
+</figure>
 
-<img src="/images/japan-chapter-1/15-enoshima-seaside-sign.jpg" alt="蓝天下的江之岛路牌" loading="lazy" decoding="async">
+<figure class="photo-grid photo-grid--two">
+  <a class="photo-tile" href="/images/japan-chapter-1/17-enoshima-beach-drink.jpg" target="_blank" rel="noopener" aria-label="查看大图：海边休息时的饮料"><img src="/images/japan-chapter-1/17-enoshima-beach-drink.jpg" alt="海边休息时的饮料" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/japan-chapter-1/19-enoshima-waves.jpg" target="_blank" rel="noopener" aria-label="查看大图：站在浪里的游人"><img src="/images/japan-chapter-1/19-enoshima-waves.jpg" alt="站在浪里的游人" loading="lazy" decoding="async"></a>
+  <figcaption>有些照片说明不了地点，只能说明那天的风很大。</figcaption>
+</figure>
 
-走到海边以后，城市的声音突然远了。树叶之间能看见发亮的海面，沙滩上的人迎着风慢慢走，浪一遍遍把脚印抹平。
+## 8 月 6—7 日｜最后记住的是陌生人
 
-<img src="/images/japan-chapter-1/16-enoshima-sea-through-trees.jpg" alt="树影之间的江之岛海面" loading="lazy" decoding="async">
+东京白天和晚上像两座城市。白天去涩谷的唱片店，本来只打算看看，最后抱着十三张 CD 出来。买的时候很快乐，结账时也稍微怀疑了一下自己，但旅行中的消费常常就是这样：理性暂时休息，行李箱负责承担后果。
 
-<img src="/images/japan-chapter-1/17-enoshima-beach-drink.jpg" alt="海边休息时的饮料" loading="lazy" decoding="async">
+歌舞伎町则完全是另一种密度。广告牌上不是女孩就是牛郎的大头照，路上有人躺着，也有人和警察争执。那些画面并不漂亮，却比“东京很繁华”这句话具体得多。城市不是为了游客保持整洁的展示柜，热闹、疲惫、欲望和混乱都在同一条路上。
 
-<img src="/images/japan-chapter-1/18-enoshima-beach-walk.jpg" alt="沿着沙滩行走的人" loading="lazy" decoding="async">
+<figure class="photo-grid photo-grid--portraits">
+  <a class="photo-tile" href="/images/japan-chapter-1/09-tokyo-city-overlook.jpg" target="_blank" rel="noopener" aria-label="查看大图：阴天俯瞰东京城市"><img src="/images/japan-chapter-1/09-tokyo-city-overlook.jpg" alt="阴天俯瞰东京城市" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/japan-chapter-1/10-tokyo-kabukicho.jpg" target="_blank" rel="noopener" aria-label="查看大图：歌舞伎町的夜间招牌"><img src="/images/japan-chapter-1/10-tokyo-kabukicho.jpg" alt="歌舞伎町的夜间招牌" loading="lazy" decoding="async"></a>
+  <figcaption>从阴天的楼顶，到亮得看不清夜色的歌舞伎町。</figcaption>
+</figure>
 
-<img src="/images/japan-chapter-1/19-enoshima-waves.jpg" alt="站在浪里的游人" loading="lazy" decoding="async">
+晚上去 SG Club 喝酒，法国酒保会英语、法语、日语和一点中文。每杯酒端上来，他都认真解释很久。Rain n Moss Gin Fizz 是那晚最喜欢的一杯，真的有雨后青草的味道。听起来像酒单上的夸张文案，喝到嘴里却确实有那么一点意思。
 
-## 8 月 6—7 日｜东京的夜
+第二天去下北泽 Shelter 看 live，排队时完全没听懂工作人员在喊什么，队伍突然分成两列，我们只好找前面的女孩问。半英语半翻译聊了半天，才知道是按号码进场。后来旁边又有两个女孩加入，大家就这样莫名其妙聊起来。
 
-白天在涩谷的唱片店收了十三张 CD，晚上走进歌舞伎町，广告牌上是女孩和牛郎的大头照，路面上的人群则比广告更杂乱、更真实。
+进门时才发现还要每人六百日元现金，我们身上没有。一位女孩很自然地从钱包里拿钱替我们付了。进去后一直想请她喝点什么，她怎么都不肯，最后只说：
 
-<img src="/images/japan-chapter-1/09-tokyo-city-overlook.jpg" alt="阴天俯瞰东京城市" loading="lazy" decoding="async">
+> 这也是一种回忆。
 
-<img src="/images/japan-chapter-1/10-tokyo-kabukicho.jpg" alt="歌舞伎町的夜间招牌" loading="lazy" decoding="async">
+这句话后来比演出歌单记得还牢。旅行时遇到的人大多不会再见，所以一段关系不需要有后续，也可以很完整。她帮了一个忙，我们认真道谢，几个人在地下室门口聊过一会儿，这件事就已经足够了。
 
-在 SG Club，法国酒保用英语、法语、日语和一点中文介绍每杯酒。最喜欢的是 Rain n Moss Gin Fizz，真的像雨后青草的气味，清爽得像刚走过一条湿漉漉的日本街道。
+<figure class="photo-grid photo-grid--three">
+  <a class="photo-tile" href="/images/japan-chapter-1/11-tokyo-livehouse-door.jpg" target="_blank" rel="noopener" aria-label="查看大图：下北泽夜晚的 Livehouse 门口"><img src="/images/japan-chapter-1/11-tokyo-livehouse-door.jpg" alt="下北泽夜晚的 Livehouse 门口" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/japan-chapter-1/13-tokyo-sg-club.jpg" target="_blank" rel="noopener" aria-label="查看大图：酒吧里正在调酒的酒保"><img src="/images/japan-chapter-1/13-tokyo-sg-club.jpg" alt="酒吧里正在调酒的酒保" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/japan-chapter-1/12-tokyo-livehouse.jpg" target="_blank" rel="noopener" aria-label="查看大图：拥挤而温暖的地下现场"><img src="/images/japan-chapter-1/12-tokyo-livehouse.jpg" alt="拥挤而温暖的地下现场" loading="lazy" decoding="async"></a>
+  <figcaption>酒吧、Livehouse 和一个不到十米深的地下室。</figcaption>
+</figure>
 
-<img src="/images/japan-chapter-1/13-tokyo-sg-club.jpg" alt="酒吧里正在调酒的酒保" loading="lazy" decoding="async">
+那场 live 的场地不大，音响也谈不上完美，楼梯上却都站满了人。年轻人、上班族、白发老人一起晃头、挥手、欢呼。以前总觉得好的现场需要很厉害的设备，后来发现，人与人之间愿不愿意一起投入，可能才是最重要的部分。
 
-第二天晚上去了下北泽 Shelter。排队时因为没弄懂按号码进场的规则，和几位独自来看演出的大学生聊了起来。进门才发现需要六百日元现金，一位女孩直接替我们付了。我们想请她喝点什么，她只说：“这也是一种回忆。”
+## 8 月 8—9 日｜在伊豆把速度降下来
 
-<img src="/images/japan-chapter-1/11-tokyo-livehouse-door.jpg" alt="下北泽夜晚的 Livehouse 门口" loading="lazy" decoding="async">
+去伊豆几乎坐了一整天车。刚开始还会焦虑，觉得旅行时间被交通吃掉了。后来靠着窗看海和小站一段段经过，才意识到“在路上”本来就是旅行的一部分，不一定非要抵达某个地方以后，时间才算开始。
 
-场地只是一个不到十米深的地下室，连楼梯上都站满了人。年轻人和白发老人一起晃头、挥手、欢呼。音响不算完美，却成了旅途中最痛快的一场演出。
+旅馆所在的小镇很小，感觉不到一百户。只有一家便利店、一家餐馆，还有一个潜水俱乐部。到的时候刚好日落，粉红色的云压在海面上。酒店房间很日式，窗台能看海，晚上吃金目鲷，泡完温泉又穿着浴衣打了半小时乒乓球。现在写出来好像安排得很丰富，其实当天的核心活动就是慢慢磨时间。
 
-<img src="/images/japan-chapter-1/12-tokyo-livehouse.jpg" alt="拥挤而温暖的地下现场" loading="lazy" decoding="async">
+<figure class="photo-grid photo-grid--three">
+  <a class="photo-tile" href="/images/japan-chapter-1/20-izu-coastal-town.jpg" target="_blank" rel="noopener" aria-label="查看大图：伊豆沿海的小镇"><img src="/images/japan-chapter-1/20-izu-coastal-town.jpg" alt="伊豆沿海的小镇" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/japan-chapter-1/21-izu-red-train.jpg" target="_blank" rel="noopener" aria-label="查看大图：停靠在伊豆站台的红色列车"><img src="/images/japan-chapter-1/21-izu-red-train.jpg" alt="停靠在伊豆站台的红色列车" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/japan-chapter-1/22-izu-train-platform.jpg" target="_blank" rel="noopener" aria-label="查看大图：山海之间的伊豆铁道"><img src="/images/japan-chapter-1/22-izu-train-platform.jpg" alt="山海之间的伊豆铁道" loading="lazy" decoding="async"></a>
+  <figcaption>坐很久的车，换来一个真的很安静的小镇。</figcaption>
+</figure>
 
-## 8 月 8—9 日｜伊豆
+晚上想去自动售卖机买东西，沿海几个居然都只收现金，最后才找到一台能刷交通卡的。这样的小麻烦当时很烦，过一阵子却会变成最容易讲给别人听的细节。反倒是那些顺利完成的行程，很快就忘了。
 
-去伊豆几乎坐了一整天车。到旅馆时刚好日落，粉红色的云压在海面上。小镇不到一百户人家，只有一家便利店、一家餐馆和一个潜水俱乐部，窗外就是海。
+第二天早起泡露天温泉，一个人也没有，又变成了私汤。退房时遇到潜水俱乐部活动，门口摆着一排氧气瓶。去便利店买早餐，店主老爷爷问我们是不是要走了，给每个人一张 Moon Drop 的时刻表，又指着相机说海上的月落很好看，让我们以后再来。
 
-<img src="/images/japan-chapter-1/20-izu-coastal-town.jpg" alt="伊豆沿海的小镇" loading="lazy" decoding="async">
+我们当然不知道什么时候会再来。但一个地方让人产生“以后也许还会回来”的念头，和真的回来并不是一回事。它更像是给这段旅程留了一个没有关紧的门。
 
-<img src="/images/japan-chapter-1/21-izu-red-train.jpg" alt="停靠在伊豆站台的红色列车" loading="lazy" decoding="async">
+<figure class="photo-grid photo-grid--two">
+  <a class="photo-tile" href="/images/japan-chapter-1/23-izu-ryokan-evening.jpg" target="_blank" rel="noopener" aria-label="查看大图：伊豆旅馆里的夜晚"><img src="/images/japan-chapter-1/23-izu-ryokan-evening.jpg" alt="伊豆旅馆里的夜晚" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/japan-chapter-1/24-izu-omuroyama.jpg" target="_blank" rel="noopener" aria-label="查看大图：大室山草坡上的人影"><img src="/images/japan-chapter-1/24-izu-omuroyama.jpg" alt="大室山草坡上的人影" loading="lazy" decoding="async"></a>
+  <figcaption>旅馆里的晚上，以及离开海边之后的大室山。</figcaption>
+</figure>
 
-<img src="/images/japan-chapter-1/22-izu-train-platform.jpg" alt="山海之间的伊豆铁道" loading="lazy" decoding="async">
+## 福井｜花火升起来以前
 
-晚上吃了金目鲷，泡完温泉又穿着浴衣打乒乓球。沿海的自动售卖机大多只收现金，绕了一圈才找到能刷交通卡的那一台。
+花火大会真正放烟花的时间并不长，前面的等待却很完整。人群慢慢聚到河岸，摊位亮起来，烤物的烟飘得到处都是。有人认真整理浴衣，有人端着吃的找位置，更多人只是站着聊天。
 
-<img src="/images/japan-chapter-1/23-izu-ryokan-evening.jpg" alt="伊豆旅馆里的夜晚" loading="lazy" decoding="async">
+以前拍烟花，总想把最大、最完整的一朵拍下来，结果很容易一直盯着相机。后来反而更喜欢前后的照片：塑料棚顶下的人、被灯照亮的袖口、大家一起抬头前那几秒。烟花很漂亮，但共同等待一件事的气氛，才让它和普通夜晚不一样。
 
-第二天清晨，露天温泉里一个人也没有。便利店的老爷爷见我们要走，送了每人一张 Moon Drop 时刻表，还指着相机说海上的月落很好看，让我们以后再来。离开海边后，又去了风把草坡吹得一层层起伏的大室山。
+<figure class="photo-grid photo-grid--three">
+  <a class="photo-tile" href="/images/japan-chapter-1/25-fukui-festival-crowd.jpg" target="_blank" rel="noopener" aria-label="查看大图：福井花火大会的人群"><img src="/images/japan-chapter-1/25-fukui-festival-crowd.jpg" alt="福井花火大会的人群" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/japan-chapter-1/26-fukui-night-stall.jpg" target="_blank" rel="noopener" aria-label="查看大图：花火大会夜间摊位"><img src="/images/japan-chapter-1/26-fukui-night-stall.jpg" alt="花火大会夜间摊位" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/japan-chapter-1/27-fukui-yukata-detail.jpg" target="_blank" rel="noopener" aria-label="查看大图：夜色中的浴衣衣袖"><img src="/images/japan-chapter-1/27-fukui-yukata-detail.jpg" alt="夜色中的浴衣衣袖" loading="lazy" decoding="async"></a>
+  <figcaption>花火以前，摊位和人群已经把夜晚点亮了。</figcaption>
+</figure>
 
-<img src="/images/japan-chapter-1/24-izu-omuroyama.jpg" alt="大室山草坡上的人影" loading="lazy" decoding="async">
+胶片拍烟花有一点像碰运气。按下快门时不知道最后会留下多少，等扫描出来，偏色、颗粒和没有那么准确的曝光反而很合适。烟花本来就是一件抓不牢的东西，照片不太完美，倒更像当时看到的样子。
 
-## 福井｜花火升起来以后
+<figure class="photo-grid photo-grid--two">
+  <a class="photo-tile" href="/images/japan-chapter-1/28-fukui-red-fireworks.jpg" target="_blank" rel="noopener" aria-label="查看大图：夜空中的红色花火"><img src="/images/japan-chapter-1/28-fukui-red-fireworks.jpg" alt="夜空中的红色花火" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/japan-chapter-1/29-fukui-white-fireworks.jpg" target="_blank" rel="noopener" aria-label="查看大图：盛放的白色花火"><img src="/images/japan-chapter-1/29-fukui-white-fireworks.jpg" alt="盛放的白色花火" loading="lazy" decoding="async"></a>
+</figure>
 
-继续向西，夏夜的人群跟着摊位的灯光聚到河岸。浴衣、烤物的烟、塑料棚顶和远处的欢呼声混在一起，直到第一朵花火在黑暗里打开。
+<figure class="photo-grid photo-grid--portrait-single">
+  <a class="photo-tile" href="/images/japan-chapter-1/30-fukui-festival-stall.jpg" target="_blank" rel="noopener" aria-label="查看大图：花火大会结束前的摊位"><img src="/images/japan-chapter-1/30-fukui-festival-stall.jpg" alt="花火大会结束前的摊位" loading="lazy" decoding="async"></a>
+  <figcaption>散场以前，再看一眼还亮着的摊位。</figcaption>
+</figure>
 
-<img src="/images/japan-chapter-1/25-fukui-festival-crowd.jpg" alt="福井花火大会的人群" loading="lazy" decoding="async">
+## 丰乡｜打卡以后还剩下什么
 
-<img src="/images/japan-chapter-1/26-fukui-night-stall.jpg" alt="花火大会夜间摊位" loading="lazy" decoding="async">
+丰乡这一段很安静。空教室、舞台、几把吉他，走路时甚至会下意识放轻声音。来之前容易把这样的地方想成“到了、拍照、离开”的打卡点，但真的站在教室里，注意力会慢慢从作品或符号移到空间本身。
 
-<img src="/images/japan-chapter-1/27-fukui-yukata-detail.jpg" alt="夜色中的浴衣衣袖" loading="lazy" decoding="async">
+桌椅为什么这样排列，窗外的光怎么落进来，舞台空着的时候是什么样。所谓打卡，如果只是证明自己到过，很快就会结束；如果愿意多停一会儿，它也可能变成对一个普通地方的认真观看。
 
-<img src="/images/japan-chapter-1/28-fukui-red-fireworks.jpg" alt="夜空中的红色花火" loading="lazy" decoding="async">
+<figure class="photo-grid photo-grid--feature">
+  <a class="photo-tile" href="/images/japan-chapter-1/31-toyosato-classroom.jpg" target="_blank" rel="noopener" aria-label="查看大图：丰乡的空教室"><img src="/images/japan-chapter-1/31-toyosato-classroom.jpg" alt="丰乡的空教室" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/japan-chapter-1/33-toyosato-stage.jpg" target="_blank" rel="noopener" aria-label="查看大图：舞台前陈列的乐器"><img src="/images/japan-chapter-1/33-toyosato-stage.jpg" alt="舞台前陈列的乐器" loading="lazy" decoding="async"></a>
+  <a class="photo-tile photo-tile--tall" href="/images/japan-chapter-1/32-toyosato-guitar.jpg" target="_blank" rel="noopener" aria-label="查看大图：展柜中的红色吉他"><img src="/images/japan-chapter-1/32-toyosato-guitar.jpg" alt="展柜中的红色吉他" loading="lazy" decoding="async"></a>
+  <figcaption>空教室、舞台和一把被单独照亮的吉他。</figcaption>
+</figure>
 
-<img src="/images/japan-chapter-1/29-fukui-white-fireworks.jpg" alt="盛放的白色花火" loading="lazy" decoding="async">
+## 山崎｜愿意等一件事
 
-<img src="/images/japan-chapter-1/30-fukui-festival-stall.jpg" alt="花火大会结束前的摊位" loading="lazy" decoding="async">
+到了山崎，最常听见的词是年份、木桶和熟成。蒸馏器很大，酒柜里一排排瓶子也很壮观，但真正让人印象深的，是这里愿意花很长时间等待一件事变好。
 
-## 丰乡｜空教室与吉他
+平时生活里，我们总希望立刻看到结果。照片拍完马上回看，消息发出最好马上得到回复，去一个地方也会想尽量多看几个点。威士忌偏偏是另一套逻辑：先做能做的事，然后把剩下的交给时间。等待不保证结果完美，却是过程里不能省掉的一部分。
 
-丰乡的记忆安静得多。没有拥挤的街道，只有一排排空桌椅、舞台和被灯光照亮的吉他。旅行偶尔需要这样的停顿，让前几天的声音慢慢沉下来。
+<figure class="photo-grid photo-grid--two">
+  <a class="photo-tile" href="/images/japan-chapter-1/34-yamazaki-spirit-still.jpg" target="_blank" rel="noopener" aria-label="查看大图：山崎酒厂的蒸馏器"><img src="/images/japan-chapter-1/34-yamazaki-spirit-still.jpg" alt="山崎酒厂的蒸馏器" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/japan-chapter-1/35-yamazaki-barrel.jpg" target="_blank" rel="noopener" aria-label="查看大图：山崎威士忌木桶细节"><img src="/images/japan-chapter-1/35-yamazaki-barrel.jpg" alt="山崎威士忌木桶细节" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/japan-chapter-1/36-yamazaki-spirits-bar.jpg" target="_blank" rel="noopener" aria-label="查看大图：酒厂内的威士忌酒柜"><img src="/images/japan-chapter-1/36-yamazaki-spirits-bar.jpg" alt="酒厂内的威士忌酒柜" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/japan-chapter-1/37-yamazaki-tasting.jpg" target="_blank" rel="noopener" aria-label="查看大图：桌面上的威士忌品鉴杯"><img src="/images/japan-chapter-1/37-yamazaki-tasting.jpg" alt="桌面上的威士忌品鉴杯" loading="lazy" decoding="async"></a>
+  <figcaption>从蒸馏器到杯子，中间隔着的主要是时间。</figcaption>
+</figure>
 
-<img src="/images/japan-chapter-1/31-toyosato-classroom.jpg" alt="丰乡的空教室" loading="lazy" decoding="async">
+这种道理写出来有点太正经。实际坐到品鉴桌前，更多时候还是忙着分辨哪杯好喝、哪杯喝不懂。但旅行的好处就是，同一件事可以既很日常，又稍微让人多想一点。
 
-<img src="/images/japan-chapter-1/32-toyosato-guitar.jpg" alt="展柜中的红色吉他" loading="lazy" decoding="async">
+## 大阪｜最后几天就好好吃饭
 
-<img src="/images/japan-chapter-1/33-toyosato-stage.jpg" alt="舞台前陈列的乐器" loading="lazy" decoding="async">
+到大阪以后，雨又回来了，和旅程开头形成了一个不太标准的首尾呼应。电线压在窄巷上空，老车停在路边，湿街面把店铺的灯反射得更亮。东京的旧感在这里也有，只是大阪更松、更吵，也更直接。
 
-## 山崎｜时间装进木桶
+旅行到后半段，已经没有刚出发时那种“每天都不能浪费”的紧张。走累了就找店，看到想吃的就坐下，行程没完成也不太在意。可能所谓适应一个陌生地方，不是开始熟悉每条路，而是终于允许自己在这里过得普通一点。
 
-到了山崎，旅程的速度又慢了一次。蒸馏器、酒柜和木桶都在谈论同一件事：有些味道只能交给时间。最后坐到桌前，杯子里留下不同年份和不同木材的颜色。
+<figure class="photo-grid photo-grid--two">
+  <a class="photo-tile" href="/images/japan-chapter-1/38-osaka-rainy-alley.jpg" target="_blank" rel="noopener" aria-label="查看大图：雨夜的大阪街巷"><img src="/images/japan-chapter-1/38-osaka-rainy-alley.jpg" alt="雨夜的大阪街巷" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/japan-chapter-1/39-osaka-classic-car.jpg" target="_blank" rel="noopener" aria-label="查看大图：大阪街头的黑色老车"><img src="/images/japan-chapter-1/39-osaka-classic-car.jpg" alt="大阪街头的黑色老车" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/japan-chapter-1/40-osaka-market-street.jpg" target="_blank" rel="noopener" aria-label="查看大图：大阪市场里穿行的人群"><img src="/images/japan-chapter-1/40-osaka-market-street.jpg" alt="大阪市场里穿行的人群" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/japan-chapter-1/41-osaka-counter.jpg" target="_blank" rel="noopener" aria-label="查看大图：大阪餐馆的吧台"><img src="/images/japan-chapter-1/41-osaka-counter.jpg" alt="大阪餐馆的吧台" loading="lazy" decoding="async"></a>
+  <figcaption>下雨的街、旧车、市场，以及终于坐下来的吧台。</figcaption>
+</figure>
 
-<img src="/images/japan-chapter-1/34-yamazaki-spirit-still.jpg" alt="山崎酒厂的蒸馏器" loading="lazy" decoding="async">
+最后几顿饭现在已经记不清准确店名，反而记得铁板上的热气、杯盘碰到一起的声音，还有厨师一直没有停下来的手。旅行结束不一定需要一个郑重的句号，一张吃完以后有点乱的桌子，可能更接近真实情况。
 
-<img src="/images/japan-chapter-1/35-yamazaki-barrel.jpg" alt="山崎威士忌木桶细节" loading="lazy" decoding="async">
+<figure class="photo-grid photo-grid--three">
+  <a class="photo-tile" href="/images/japan-chapter-1/42-osaka-grill.jpg" target="_blank" rel="noopener" aria-label="查看大图：铁板上正在烹饪的食物"><img src="/images/japan-chapter-1/42-osaka-grill.jpg" alt="铁板上正在烹饪的食物" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/japan-chapter-1/43-osaka-chef.jpg" target="_blank" rel="noopener" aria-label="查看大图：吧台后忙碌的厨师"><img src="/images/japan-chapter-1/43-osaka-chef.jpg" alt="吧台后忙碌的厨师" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/japan-chapter-1/44-osaka-dinner.jpg" target="_blank" rel="noopener" aria-label="查看大图：旅程最后几顿饭之一"><img src="/images/japan-chapter-1/44-osaka-dinner.jpg" alt="旅程最后几顿饭之一" loading="lazy" decoding="async"></a>
+  <figcaption>比起告别，更像是很普通地吃完一顿饭。</figcaption>
+</figure>
 
-<img src="/images/japan-chapter-1/36-yamazaki-spirits-bar.jpg" alt="酒厂内的威士忌酒柜" loading="lazy" decoding="async">
+<figure class="photo-grid photo-grid--portrait-single">
+  <a class="photo-tile" href="/images/japan-chapter-1/45-osaka-city-wires.jpg" target="_blank" rel="noopener" aria-label="查看大图：大阪楼宇之间交错的电线"><img src="/images/japan-chapter-1/45-osaka-city-wires.jpg" alt="大阪楼宇之间交错的电线" loading="lazy" decoding="async"></a>
+  <figcaption>最后一张，还是第一天就注意到的电线。</figcaption>
+</figure>
 
-<img src="/images/japan-chapter-1/37-yamazaki-tasting.jpg" alt="桌面上的威士忌品鉴杯" loading="lazy" decoding="async">
+从东京到大阪，数码相机留下的是当时看见了什么，胶片更像是后来怎么记得。它们放在一起并不统一，有的清楚、有的松散，有的颜色甚至不太准确，但旅行本来也不是一条平整的时间线。
 
-## 大阪｜雨又回来了
+回来以后，日常很快恢复。要上班，要整理照片，要处理那些出发前以为回来就会马上完成、实际又拖了很久的事。可偶尔听到电车声，或者下雨后闻到一点青草味，某个片段还是会突然回来。
 
-最后走到大阪，雨像旅程开头一样重新落下来。电线压在窄巷上空，老车停在路边，商店和餐馆的灯从湿漉漉的街面反射回来。
-
-<img src="/images/japan-chapter-1/38-osaka-rainy-alley.jpg" alt="雨夜的大阪街巷" loading="lazy" decoding="async">
-
-<img src="/images/japan-chapter-1/39-osaka-classic-car.jpg" alt="大阪街头的黑色老车" loading="lazy" decoding="async">
-
-<img src="/images/japan-chapter-1/40-osaka-market-street.jpg" alt="大阪市场里穿行的人群" loading="lazy" decoding="async">
-
-旅程在吧台和餐桌边慢慢结束。铁板上的热气、杯盘碰撞的声音、厨师手里的动作，都比宏大的告别更适合留在最后。
-
-<img src="/images/japan-chapter-1/41-osaka-counter.jpg" alt="大阪餐馆的吧台" loading="lazy" decoding="async">
-
-<img src="/images/japan-chapter-1/42-osaka-grill.jpg" alt="铁板上正在烹饪的食物" loading="lazy" decoding="async">
-
-<img src="/images/japan-chapter-1/43-osaka-chef.jpg" alt="吧台后忙碌的厨师" loading="lazy" decoding="async">
-
-<img src="/images/japan-chapter-1/44-osaka-dinner.jpg" alt="旅程最后几顿饭之一" loading="lazy" decoding="async">
-
-<img src="/images/japan-chapter-1/45-osaka-city-wires.jpg" alt="大阪楼宇之间交错的电线" loading="lazy" decoding="async">
-
-从东京到大阪，电车把许多彼此不同的日常接在一起。照片里既有数码相机留下的清晰瞬间，也有胶片里散开的高光和颗粒。等旅行结束，它们又一起回到了日记里。
+这大概就是我现在愿意继续拍照的原因。不是为了证明去过多少地方，而是给那些当时觉得普通、以后可能想不起的瞬间，留一个可以重新进去的入口。
