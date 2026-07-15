@@ -4,3 +4,12 @@ google_analytics:
 # Default portfolio post
 default_cover_image: images/unsplash.jpg
 default_post_title: Portfolio Item
+
+# GitHub Discussions comments
+giscus:
+  enable: false
+  repo: xiaoyu233kao/xiaoyu233kao.github.io
+  repo_id: R_kgDOTZO2Gw
+  category: Announcements
+  category_id:
+  mapping: pathname

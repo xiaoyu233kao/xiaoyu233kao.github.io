@@ -1,24 +1,17 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
-  <!-- Head tag -->
   <%- partial('_partial/head') %>
-
-  <body>
-    <div class="container-fluid navbar-container m-sm-5">
-      <!-- Header -->
-      <%- partial('_partial/header') %>
-
-      <div class="row">
-        <%- body %>
-      </div>
+  <body class="<%= is_post() ? 'page-post' : (is_home() ? 'page-home' : 'page-standard') %>">
+    <a class="skip-link" href="#main-content">跳到正文</a>
+    <%- partial('_partial/header') %>
+    <main class="site-main" id="main-content">
+      <%- body %>
       <% if (page.total > 1) { %>
-    <nav class="page-nav">
-        <%- paginator({prev_text: '<', next_text: '>'}) %>
-    </nav>
-<% } %>
-    </div>
-
-    <!-- After footer scripts -->
+        <nav class="page-nav" aria-label="分页">
+          <%- paginator({ prev_text: '上一页', next_text: '下一页' }) %>
+        </nav>
+      <% } %>
+    </main>
     <%- partial('_partial/footer') %>
   </body>
 </html>

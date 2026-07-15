@@ -1,8 +1,10 @@
-<% if (item.cover_image){ %>
-  <div class="col-12 mb-4">
-    <img class="img-fluid project-img" src="<%- url_for(item.cover_image) %>" alt="<%- item.title || "Untitled" %>">
-  </div>
-<% } %>
-<div class="col-12 pt-lg-3 mb-4 px-4 portfolio-content">
-  <%- item.content %>
-</div>
+<article class="standard-page">
+  <header class="collection-header">
+    <p class="eyebrow">ABOUT THIS JOURNAL</p>
+    <h1><%- item.title || '页面' %></h1>
+  </header>
+  <% if (item.cover_image){ %>
+    <img class="project-img standard-page-cover" src="<%- url_for(item.cover_image) %>" alt="<%- item.title || 'Untitled' %>">
+  <% } %>
+  <div class="portfolio-content standard-page-content"><%- item.content %></div>
+</article>

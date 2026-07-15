@@ -1,16 +1,17 @@
-<nav class="navbar navbar-toggleable-sm navbar-light px-1 py-3 my-3 mb-sm-5">
-  <a class="navbar-brand ml-2" href="<%- config.root %>"><%-config.title || ""%></a>
-  <button class="navbar-toggler navbar-toggler-right py-2" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse text-center" id="navbarCollapse">
-    <ul class="navbar-nav ml-auto my-auto">
-      <% for (var i in config.menu){ %>
-        <li class="nav-item">
-          <a class="nav-link" href="<%- url_for(config.menu[i]) %>"><%= i %></a>
-        </li>
+<header class="site-header">
+  <div class="site-header-inner">
+    <a class="site-identity" href="<%- url_for('/') %>" aria-label="<%- config.title %>首页">
+      <span class="site-title"><%- config.title || '' %></span>
+      <span class="site-subtitle"><%- config.subtitle || '' %></span>
+    </a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-navigation">
+      <span></span><span></span>
+      <span class="sr-only">打开导航</span>
+    </button>
+    <nav class="site-navigation" id="site-navigation" aria-label="主导航">
+      <% for (var label in config.menu){ %>
+        <a class="nav-link<%= is_current(config.menu[label]) ? ' is-active' : '' %>" href="<%- url_for(config.menu[label]) %>"><%= label %></a>
       <% } %>
-    </ul>
-    <hr class="hidden-md-up" />
+    </nav>
   </div>
-</nav>
+</header>

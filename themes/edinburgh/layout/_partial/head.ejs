@@ -11,6 +11,8 @@
       title.push(config.title);
   %>
   <title><%= title.join(' - ') %></title>
+  <% var canonicalPath = page.path === 'index.html' ? '' : (page.path || ''); %>
+  <link rel="canonical" href="<%- full_url_for(canonicalPath) %>">
 
   <!--Favicon-->
   <link rel="icon" href="<%- url_for('/favicon/favicon.ico') %>">
@@ -31,18 +33,16 @@
       <meta name="author" content="<%= config.author %>">
   <% } %>
 
-  <!-- Pure CSS -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
-  <link href="https://fonts.googleapis.com/css?family=Crimson+Text|Open+Sans:300,800" rel="stylesheet">
+  <meta property="og:type" content="<%= is_post() ? 'article' : 'website' %>">
+  <meta property="og:title" content="<%- page.title || config.title %>">
+  <meta property="og:site_name" content="<%- config.title %>">
+  <meta property="og:url" content="<%- full_url_for(canonicalPath) %>">
+  <% if (page.cover_image) { %>
+    <meta property="og:image" content="<%- full_url_for(page.cover_image) %>">
+  <% } %>
 
   <!-- Custom CSS -->
   <%- css('css/styles.css') %>
-
-  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-  <!--[if lt IE 9]>
-    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-  <![endif]-->
 
   <!-- Google Analytics -->
   <%- partial('google-analytics') %>
