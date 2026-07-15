@@ -1,0 +1,19 @@
+<% var collectionTitle = page.category ? ('分类 · ' + page.category) : (page.tag ? ('标签 · ' + page.tag) : '归档'); %>
+<% var collectionEyebrow = page.category ? 'CATEGORY' : (page.tag ? 'TAG' : 'ARCHIVE'); %>
+<header class="collection-header">
+  <p class="eyebrow"><%- collectionEyebrow %></p>
+  <h1><%- collectionTitle %></h1>
+  <p><%= page.category || page.tag ? '同一线索下的摄影与文字。' : '按时间回看日常与旅途中的光线。' %></p>
+</header>
+
+<section class="archive-list" aria-label="文章归档">
+  <% page.posts.forEach(function(item){ %>
+    <article class="archive-item">
+      <time datetime="<%- date_xml(item.date) %>"><%- date(item.date, config.date_format) %></time>
+      <h2><a href="<%- url_for(item.path) %>"><%- item.title || theme.default_post_title || 'Untitled' %></a></h2>
+      <% if (item.categories && item.categories.length) { %>
+        <p><%- item.categories.map(function(category){ return category.name; }).join(' · ') %></p>
+      <% } %>
+    </article>
+  <% }); %>
+</section>

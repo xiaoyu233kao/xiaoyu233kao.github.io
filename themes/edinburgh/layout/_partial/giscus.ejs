@@ -1,0 +1,25 @@
+<% if (theme.giscus && theme.giscus.enable && theme.giscus.repo_id && theme.giscus.category_id) { %>
+  <section class="comments" id="comments" aria-labelledby="comments-title">
+    <div class="comments-heading">
+      <p class="eyebrow">GUESTBOOK</p>
+      <h2 id="comments-title">留言</h2>
+      <p>欢迎分享你看到的光线。评论由 GitHub Discussions 保存。</p>
+    </div>
+    <script src="https://giscus.app/client.js"
+            data-repo="<%- theme.giscus.repo %>"
+            data-repo-id="<%- theme.giscus.repo_id %>"
+            data-category="<%- theme.giscus.category %>"
+            data-category-id="<%- theme.giscus.category_id %>"
+            data-mapping="<%- theme.giscus.mapping || 'pathname' %>"
+            data-strict="1"
+            data-reactions-enabled="1"
+            data-emit-metadata="0"
+            data-input-position="top"
+            data-theme="light"
+            data-lang="zh-CN"
+            data-loading="lazy"
+            crossorigin="anonymous"
+            async>
+    </script>
+  </section>
+<% } %>

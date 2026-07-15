@@ -1,9 +1,38 @@
-<div class="col-12 mb-4">
-  <img class="img-fluid project-img" src="<%- url_for(item.cover_image || theme.default_cover_image) %>" alt="<%- item.title || theme.default_post_title || "Untitled" %>">
-</div>
-<div class="col-lg-4 col-12 pt-3 px-4 pr-lg-5">
-  <h1><%- item.title || theme.default_post_title || "Untitled" %></h1>
-</div>
-<div class="col-lg-8 col-12 pt-lg-3 mb-4 pl-lg-5 px-lg-0 px-4 portfolio-content">
-  <%- item.content %>
-</div>
+<article class="journal-entry">
+  <header class="entry-header">
+    <p class="entry-kicker">
+      <time datetime="<%- date_xml(item.date) %>"><%- date(item.date, config.date_format) %></time>
+      <% if (item.categories && item.categories.length) { %>
+        <span aria-hidden="true">/</span>
+        <%- item.categories.map(function(category){ return category.name; }).join(' · ') %>
+      <% } %>
+    </p>
+    <h1><%- item.title || theme.default_post_title || 'Untitled' %></h1>
+  </header>
+
+  <figure class="entry-cover">
+    <img class="project-img" src="<%- url_for(item.cover_image || theme.default_cover_image) %>" alt="<%- item.title || theme.default_post_title || 'Untitled' %>">
+  </figure>
+
+  <div class="entry-layout">
+    <aside class="entry-aside">
+      <p>记录于</p>
+      <time datetime="<%- date_xml(item.date) %>"><%- date(item.date, config.date_format) %></time>
+      <% if (item.tags && item.tags.length) { %>
+        <ul class="entry-tags" aria-label="标签">
+          <% item.tags.forEach(function(tag){ %><li>#<%- tag.name %></li><% }); %>
+        </ul>
+      <% } %>
+    </aside>
+    <div class="portfolio-content entry-content"><%- item.content %></div>
+  </div>
+
+  <% if (item.prev || item.next) { %>
+    <nav class="post-navigation" aria-label="相邻日志">
+      <% if (item.prev) { %><a href="<%- url_for(item.prev.path) %>"><span>上一篇</span><strong><%- item.prev.title %></strong></a><% } %>
+      <% if (item.next) { %><a href="<%- url_for(item.next.path) %>"><span>下一篇</span><strong><%- item.next.title %></strong></a><% } %>
+    </nav>
+  <% } %>
+
+  <%- partial('_partial/giscus', { item: item }) %>
+</article>
