@@ -1,0 +1,13 @@
+<div class="col-md-6 col-12 mb-4">
+  <div class="hovereffect">
+    <a href="<%- config.root %><%- item.path %>">
+      <img class="img-fluid portfolio-img" src="<%- url_for(item.cover_image || theme.default_cover_image) %>" alt="<%- item.title || theme.default_post_title || "Untitled" %>">
+      <div class="overlay">
+        <span class="overlay-text">
+          <%- item.title || theme.default_post_title || "Untitled" %><br>
+          <small><%- date(item.date, config.date_format) %></small>
+        </span>
+      </div>
+    </a>
+  </div>
+</div>
