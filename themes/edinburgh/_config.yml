@@ -7,9 +7,9 @@ default_post_title: Portfolio Item
 
 # GitHub Discussions comments
 giscus:
-  enable: false
+  enable: true
   repo: xiaoyu233kao/xiaoyu233kao.github.io
   repo_id: R_kgDOTZO2Gw
   category: Announcements
-  category_id:
+  category_id: DIC_kwDOTZO2G84DBSiW
   mapping: pathname
