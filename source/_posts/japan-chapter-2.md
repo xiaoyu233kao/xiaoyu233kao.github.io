@@ -1,7 +1,7 @@
 ---
 title: 日本·第二章｜花火之后，一路到大阪
 date: 2025-08-10 09:42:57
-cover_image: /images/japan-chapter-2/04-fukui-fireworks-30.jpg
+cover_image: https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/04-fukui-fireworks-30.jpg
 route: 福井 → 丰乡 → 山崎 → 大阪
 photo_count: 22
 medium: 数码 · 胶片
@@ -32,9 +32,9 @@ tags:
 数码相机适合快速确认构图，拍完马上能知道有没有严重过曝；胶片完全是另一回事，快门按下去以后只能先相信自己的判断。两台相机来回换，忙起来时甚至顾不上完整看一轮花火。后来整理照片才发现，现场看和专心拍很难同时做到，只能接受自己会错过一部分。
 
 <figure class="photo-grid photo-grid--three">
-  <a class="photo-tile" href="/images/japan-chapter-2/01-fukui-festival-10.jpg" target="_blank" rel="noopener"><img src="/images/japan-chapter-2/01-fukui-festival-10.jpg" alt="福井花火大会胶片记录之一" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="/images/japan-chapter-2/02-fukui-festival-14.jpg" target="_blank" rel="noopener"><img src="/images/japan-chapter-2/02-fukui-festival-14.jpg" alt="福井花火大会等待中的人群" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="/images/japan-chapter-2/05-fukui-festival-115.jpg" target="_blank" rel="noopener"><img src="/images/japan-chapter-2/05-fukui-festival-115.jpg" alt="花火大会夜色中的胶片画面" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/01-fukui-festival-10.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/01-fukui-festival-10.jpg" alt="福井花火大会胶片记录之一" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/02-fukui-festival-14.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/02-fukui-festival-14.jpg" alt="福井花火大会等待中的人群" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/05-fukui-festival-115.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/05-fukui-festival-115.jpg" alt="花火大会夜色中的胶片画面" loading="lazy" decoding="async"></a>
   <figcaption>花火升起以前，会场已经被等待的人群点亮。</figcaption>
 </figure>
 
@@ -43,9 +43,9 @@ tags:
 散场时人群一起往外走，刚才还很热闹的摊位开始收东西，路也一下子变得拥挤。那天没有刻意拍一个“结束”的画面，最后几张仍然是会场和花火。这样也挺符合实际：活动结束得很快，大家一边讨论哪一轮最好看，一边已经开始研究怎么回去。
 
 <figure class="photo-grid photo-grid--mixed-three">
-  <a class="photo-tile" href="/images/japan-chapter-2/03-fukui-fireworks-29.jpg" target="_blank" rel="noopener"><img src="/images/japan-chapter-2/03-fukui-fireworks-29.jpg" alt="福井夜空中的胶片花火" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="/images/japan-chapter-2/04-fukui-fireworks-30.jpg" target="_blank" rel="noopener"><img src="/images/japan-chapter-2/04-fukui-fireworks-30.jpg" alt="盛放在福井夜空中的花火" loading="lazy" decoding="async"></a>
-  <a class="photo-tile photo-tile--portrait" href="/images/japan-chapter-2/06-fukui-festival-digital.jpg" target="_blank" rel="noopener"><img src="/images/japan-chapter-2/06-fukui-festival-digital.jpg" alt="数码相机记录的福井花火大会" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/03-fukui-fireworks-29.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/03-fukui-fireworks-29.jpg" alt="福井夜空中的胶片花火" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/04-fukui-fireworks-30.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/04-fukui-fireworks-30.jpg" alt="盛放在福井夜空中的花火" loading="lazy" decoding="async"></a>
+  <a class="photo-tile photo-tile--portrait" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/06-fukui-festival-digital.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/06-fukui-festival-digital.jpg" alt="数码相机记录的福井花火大会" loading="lazy" decoding="async"></a>
   <figcaption>胶片与数码各自留下了那一晚的夜空。</figcaption>
 </figure>
 
@@ -58,9 +58,9 @@ tags:
 胶片的两张没有刻意追求完全复刻，只是记录当时看到的室内光线和摆设。数码照片则把礼堂拍得更清楚。三张放在一起，一边是粉丝熟悉的场景，一边又是一所真实存在、平时有自己用途的旧校舍。
 
 <figure class="photo-grid photo-grid--mixed-three">
-  <a class="photo-tile photo-tile--portrait" href="/images/japan-chapter-2/07-toyosato-06.jpg" target="_blank" rel="noopener"><img src="/images/japan-chapter-2/07-toyosato-06.jpg" alt="胶片里的丰乡旧校舍" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="/images/japan-chapter-2/08-toyosato-231.jpg" target="_blank" rel="noopener"><img src="/images/japan-chapter-2/08-toyosato-231.jpg" alt="丰乡旧校舍的胶片画面" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="/images/japan-chapter-2/09-toyosato-k-on-hall.jpg" target="_blank" rel="noopener"><img src="/images/japan-chapter-2/09-toyosato-k-on-hall.jpg" alt="轻音少女里的丰乡礼堂" loading="lazy" decoding="async"></a>
+  <a class="photo-tile photo-tile--portrait" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/07-toyosato-06.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/07-toyosato-06.jpg" alt="胶片里的丰乡旧校舍" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/08-toyosato-231.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/08-toyosato-231.jpg" alt="丰乡旧校舍的胶片画面" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/09-toyosato-k-on-hall.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/09-toyosato-k-on-hall.jpg" alt="轻音少女里的丰乡礼堂" loading="lazy" decoding="async"></a>
   <figcaption>从作品里的场景，重新看见一座真实的旧校舍。</figcaption>
 </figure>
 
@@ -77,10 +77,10 @@ tags:
 拍照时，胶片更适合木桶和室内的暖色，数码则把设备细节留得更清楚。因为酒厂内部元素很多，如果全部拍下来会很散，最后只保留了蒸馏器、木桶、厂区和品鉴四组，刚好对应一杯威士忌从制作到入口的大致顺序。
 
 <figure class="photo-grid photo-grid--two">
-  <a class="photo-tile" href="/images/japan-chapter-2/10-yamazaki-still.jpg" target="_blank" rel="noopener"><img src="/images/japan-chapter-2/10-yamazaki-still.jpg" alt="山崎威士忌酒厂的蒸馏器" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="/images/japan-chapter-2/11-yamazaki-barrels.jpg" target="_blank" rel="noopener"><img src="/images/japan-chapter-2/11-yamazaki-barrels.jpg" alt="山崎威士忌酒厂的木桶" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="/images/japan-chapter-2/12-yamazaki-distillery.jpg" target="_blank" rel="noopener"><img src="/images/japan-chapter-2/12-yamazaki-distillery.jpg" alt="山崎威士忌酒厂内部" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="/images/japan-chapter-2/13-yamazaki-tasting.jpg" target="_blank" rel="noopener"><img src="/images/japan-chapter-2/13-yamazaki-tasting.jpg" alt="品尝不同年份原酒和山崎十八年" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/10-yamazaki-still.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/10-yamazaki-still.jpg" alt="山崎威士忌酒厂的蒸馏器" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/11-yamazaki-barrels.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/11-yamazaki-barrels.jpg" alt="山崎威士忌酒厂的木桶" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/12-yamazaki-distillery.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/12-yamazaki-distillery.jpg" alt="山崎威士忌酒厂内部" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/13-yamazaki-tasting.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/13-yamazaki-tasting.jpg" alt="品尝不同年份原酒和山崎十八年" loading="lazy" decoding="async"></a>
   <figcaption>参观后的品酒活动：几种年份原酒，最后是一杯山崎十八年。</figcaption>
 </figure>
 
@@ -97,9 +97,9 @@ tags:
 大阪住处周围吃饭很方便，公寓出门就有一家东北老板开的中国菜。旅行时间长了以后，偶尔吃到熟悉的味道确实很有用，不需要研究菜单，也不用猜某道菜到底是什么。老板听到中文就直接开始聊天，那顿饭没有拍得很正式，但很快把大家从连续赶路的状态里拉了回来。
 
 <figure class="photo-grid photo-grid--mixed-three">
-  <a class="photo-tile" href="/images/japan-chapter-2/14-osaka-conveyor-sushi.jpg" target="_blank" rel="noopener"><img src="/images/japan-chapter-2/14-osaka-conveyor-sushi.jpg" alt="从东京到大阪下新干线后的第一顿回转寿司" loading="lazy" decoding="async"></a>
-  <a class="photo-tile photo-tile--portrait" href="/images/japan-chapter-2/15-osaka-giant-beer.jpg" target="_blank" rel="noopener"><img src="/images/japan-chapter-2/15-osaka-giant-beer.jpg" alt="大阪居酒屋五百日元、约两点五升的大杯啤酒" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="/images/japan-chapter-2/16-osaka-chinese-restaurant.jpg" target="_blank" rel="noopener"><img src="/images/japan-chapter-2/16-osaka-chinese-restaurant.jpg" alt="大阪公寓门口东北老板开的中国菜馆" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/14-osaka-conveyor-sushi.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/14-osaka-conveyor-sushi.jpg" alt="从东京到大阪下新干线后的第一顿回转寿司" loading="lazy" decoding="async"></a>
+  <a class="photo-tile photo-tile--portrait" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/15-osaka-giant-beer.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/15-osaka-giant-beer.jpg" alt="大阪居酒屋五百日元、约两点五升的大杯啤酒" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/16-osaka-chinese-restaurant.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/16-osaka-chinese-restaurant.jpg" alt="大阪公寓门口东北老板开的中国菜馆" loading="lazy" decoding="async"></a>
   <figcaption>大阪的开场没有仪式感，先是寿司、巨大的啤酒和楼下的中国菜。</figcaption>
 </figure>
 
@@ -110,8 +110,8 @@ tags:
 道顿堀晚上人很多，我们没有特别执着于找标准拍照位。同行几个人走走停停，有人看店，有人找吃的，有人只想赶快从最挤的地方出去。照片里的街道因此没有被整理得很干净，广告、人头和路边设施都挤在一起，反而比较像当时走进去的感受。
 
 <figure class="photo-grid photo-grid--two">
-  <a class="photo-tile" href="/images/japan-chapter-2/17-osaka-crown-taxi.jpg" target="_blank" rel="noopener"><img src="/images/japan-chapter-2/17-osaka-crown-taxi.jpg" alt="大阪路上常见的老牌皇冠出租车" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="/images/japan-chapter-2/18-osaka-dotonbori.jpg" target="_blank" rel="noopener"><img src="/images/japan-chapter-2/18-osaka-dotonbori.jpg" alt="大阪道顿堀街道" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/17-osaka-crown-taxi.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/17-osaka-crown-taxi.jpg" alt="大阪路上常见的老牌皇冠出租车" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/18-osaka-dotonbori.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/18-osaka-dotonbori.jpg" alt="大阪道顿堀街道" loading="lazy" decoding="async"></a>
   <figcaption>老皇冠出租车开过道顿堀，旧与新仍然挤在同一条街上。</figcaption>
 </figure>
 
@@ -122,9 +122,9 @@ tags:
 吃到旅行后面，判断一家店的标准也变简单了：距离近、还有位置、大家都愿意吃，就可以进去。东京前几天那种“这一顿必须选对”的压力已经没有了。结果回国以后，反而是这些没有做太多功课的店更容易被反复提起。
 
 <figure class="photo-grid photo-grid--three">
-  <a class="photo-tile" href="/images/japan-chapter-2/19-osaka-tempura.jpg" target="_blank" rel="noopener"><img src="/images/japan-chapter-2/19-osaka-tempura.jpg" alt="大阪写字楼地下的天妇罗" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="/images/japan-chapter-2/20-osaka-okonomiyaki.jpg" target="_blank" rel="noopener"><img src="/images/japan-chapter-2/20-osaka-okonomiyaki.jpg" alt="大阪烧" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="/images/japan-chapter-2/21-osaka-wagyu.jpg" target="_blank" rel="noopener"><img src="/images/japan-chapter-2/21-osaka-wagyu.jpg" alt="大阪的和牛自助" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/19-osaka-tempura.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/19-osaka-tempura.jpg" alt="大阪写字楼地下的天妇罗" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/20-osaka-okonomiyaki.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/20-osaka-okonomiyaki.jpg" alt="大阪烧" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/21-osaka-wagyu.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/21-osaka-wagyu.jpg" alt="大阪的和牛自助" loading="lazy" decoding="async"></a>
   <figcaption>写字楼地下的天妇罗、大阪烧与和牛自助。</figcaption>
 </figure>
 
@@ -133,7 +133,7 @@ tags:
 那天本来一直在看店铺和人群，抬头时才发现云的形状很完整。拍完以后大家继续逛，没有专门停下来等光线，也没人觉得这是旅程的“最后一张”。整理照片时按时间往后翻，它刚好排在大阪这一组的后面，于是就留下来做结尾。
 
 <figure class="photo-grid photo-grid--portrait-single">
-  <a class="photo-tile" href="/images/japan-chapter-2/22-osaka-shinsaibashi-cloud.jpg" target="_blank" rel="noopener"><img src="/images/japan-chapter-2/22-osaka-shinsaibashi-cloud.jpg" alt="逛心斋桥时遇到的云" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/22-osaka-shinsaibashi-cloud.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/22-osaka-shinsaibashi-cloud.jpg" alt="逛心斋桥时遇到的云" loading="lazy" decoding="async"></a>
   <figcaption>心斋桥上空的云，为这段从东京一路向西的旅程收尾。</figcaption>
 </figure>
 
