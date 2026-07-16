@@ -241,7 +241,29 @@ a { color: inherit; }
   aspect-ratio: auto;
   object-fit: contain;
 }
-.photo-grid--mixed { grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr); align-items: start; }
+.photo-grid--mixed { grid-template-columns: 1fr; align-items: start; }
+.photo-grid--mixed .photo-tile:nth-of-type(2) { width: min(68%, 520px); margin-right: auto; margin-left: auto; }
+.photo-grid--showcase { grid-template-columns: repeat(2, minmax(0, 1fr)); align-items: start; }
+.photo-grid--showcase .photo-tile:first-child { grid-column: 1 / -1; }
+.photo-grid--mixed-three { grid-template-columns: minmax(0, .9fr) minmax(0, 1.1fr); grid-template-rows: auto auto; align-items: start; }
+.photo-grid--mixed-three .photo-tile--portrait { grid-column: 1; grid-row: 1 / span 2; }
+.photo-grid--mixed-three .photo-tile:not(.photo-tile--portrait) { grid-column: 2; }
+.photo-grid--mixed-two-portraits { grid-template-columns: repeat(2, minmax(0, 1fr)); align-items: start; }
+.photo-grid--mixed-two-portraits .photo-tile--landscape { grid-column: 1 / -1; grid-row: 1; }
+.photo-grid--mixed-two-portraits .photo-tile:not(.photo-tile--landscape) { grid-row: 2; }
+.photo-grid--mixed-two-portraits .photo-tile:not(.photo-tile--landscape):first-child { grid-column: 1; }
+.photo-grid--mixed-two-portraits .photo-tile:not(.photo-tile--landscape):nth-of-type(3) { grid-column: 2; }
+@media (max-width: 760px) {
+  .photo-grid--showcase,
+  .photo-grid--mixed,
+  .photo-grid--mixed-three,
+  .photo-grid--mixed-two-portraits { grid-template-columns: 1fr; grid-template-rows: auto; }
+  .photo-grid--showcase .photo-tile:first-child,
+  .photo-grid--mixed-three .photo-tile--portrait,
+  .photo-grid--mixed-three .photo-tile:not(.photo-tile--portrait),
+  .photo-grid--mixed-two-portraits .photo-tile--landscape { grid-column: 1; grid-row: auto; }
+  .photo-grid--mixed-three .photo-tile--portrait { width: min(72vw, 360px); margin-right: auto; margin-left: auto; }
+}
 .photo-grid--feature .photo-tile--tall { grid-column: 2; grid-row: 1 / span 2; }
 .photo-grid--feature .photo-tile--tall img { aspect-ratio: auto; }
 .photo-tile:hover img { transform: scale(1.018); opacity: .94; }
