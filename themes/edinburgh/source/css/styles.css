@@ -176,7 +176,7 @@ a { color: inherit; }
 .entry-toc li + li { margin-top: 7px; }
 .entry-toc a { display: block; color: var(--muted); line-height: 1.45; text-decoration: none; transition: color .2s ease, transform .2s ease; }
 .entry-toc a:hover, .entry-toc a.is-active { color: var(--ink); transform: translateX(3px); }
-.portfolio-content { color: #3d3d3d; font-family: Georgia, "Songti SC", serif; font-size: 1.08rem; line-height: 2; }
+.portfolio-content { min-width: 0; color: #3d3d3d; font-family: Georgia, "Songti SC", serif; font-size: 1.08rem; line-height: 2; }
 .portfolio-content > :first-child { margin-top: 0; }
 .portfolio-content h2, .portfolio-content h3 { margin: 2.4em 0 .8em; color: var(--ink); font-weight: 400; line-height: 1.35; }
 .entry-content { counter-reset: journal-section; }
@@ -200,14 +200,14 @@ a { color: inherit; }
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 12px;
-  width: min(100vw - 64px, 1040px);
-  margin: 3.2rem 0 3.5rem 50%;
-  transform: translateX(-50%);
+  width: 100%;
+  max-width: 100%;
+  margin: 3.2rem 0 3.5rem;
 }
 .photo-grid--three { grid-template-columns: repeat(3, minmax(0, 1fr)); }
-.photo-grid--portraits { width: min(100vw - 64px, 760px); }
-.photo-grid--portrait-single { grid-template-columns: 1fr; width: min(100vw - 64px, 520px); }
-.photo-grid--landscape-single { grid-template-columns: 1fr; width: min(100vw - 64px, 760px); }
+.photo-grid--portraits { width: min(100%, 760px); margin-right: auto; margin-left: auto; }
+.photo-grid--portrait-single { grid-template-columns: 1fr; width: min(100%, 520px); margin-right: auto; margin-left: auto; }
+.photo-grid--landscape-single { grid-template-columns: 1fr; width: min(100%, 760px); margin-right: auto; margin-left: auto; }
 .photo-grid--feature {
   grid-template-columns: minmax(0, 1.35fr) minmax(0, .65fr);
   grid-template-rows: repeat(2, minmax(0, 1fr));
@@ -362,7 +362,7 @@ a { color: inherit; }
   .photo-grid--portraits,
   .photo-grid--portrait-single,
   .photo-grid--landscape-single {
-    width: calc(100vw - 40px);
+    width: 100%;
     margin-top: 2.4rem;
     margin-bottom: 2.8rem;
     gap: 8px;
