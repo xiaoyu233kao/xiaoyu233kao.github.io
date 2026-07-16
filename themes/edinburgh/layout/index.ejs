@@ -1,12 +1,17 @@
+<% var allPosts = site.posts && site.posts.toArray ? site.posts.toArray() : []; %>
+<% var totalPhotos = allPosts.reduce(function(total, post){ return total + Number(post.photo_count || 0); }, 0); %>
 <section class="journal-intro" aria-labelledby="journal-title">
-  <p class="eyebrow">PHOTO JOURNAL · SINCE 2026</p>
+  <p class="eyebrow">PHOTO JOURNAL · SINCE 2025</p>
   <h1 id="journal-title"><%- config.subtitle %></h1>
   <p class="journal-intro-copy"><%- config.description %></p>
-  <p class="journal-intro-note">按拍摄与记录时间倒序排列</p>
+  <p class="journal-intro-note">
+    <span><%= allPosts.length %> 篇日志<% if (totalPhotos) { %> · <%= totalPhotos %> 张照片<% } %></span>
+    <span>按拍摄与记录时间倒序排列</span>
+  </p>
 </section>
 
 <section class="portfolio-grid" aria-label="摄影日志">
   <% page.posts.forEach(function(item, index){ %>
-    <%- partial('_partial/portfolio-index', { item: item, featured: index === 0 && page.current === 1 }) %>
+    <%- partial('_partial/portfolio-index', { item: item, index: index, featured: index === 0 && page.current === 1 }) %>
   <% }); %>
 </section>
