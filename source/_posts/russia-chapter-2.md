@@ -54,7 +54,7 @@ tags:
 
 第二天从上午十一点逛冬宫，一直到晚上七点仍然没看完。照片能记录金色的墙、长廊和藏品，却很难表现空间本身的压迫感。房间接着房间，画作、雕塑、盔甲和工艺品像没有尽头。走到后半程，已经分不清自己是在认真观看，还是单纯被庞大的数量推着继续向前。
 
-<figure class="photo-grid photo-grid--three">
+<figure class="photo-grid photo-grid--showcase">
   <a class="photo-tile" href="/images/russia-chapter-2/04-hermitage-corridor.jpg" target="_blank" rel="noopener" aria-label="查看大图：冬宫深处的长廊"><img src="/images/russia-chapter-2/04-hermitage-corridor.jpg" alt="冬宫深处的长廊" loading="lazy" decoding="async"></a>
   <a class="photo-tile" href="/images/russia-chapter-2/05-hermitage-helmets.jpg" target="_blank" rel="noopener" aria-label="查看大图：冬宫展柜里的银色头盔"><img src="/images/russia-chapter-2/05-hermitage-helmets.jpg" alt="冬宫展柜里的银色头盔" loading="lazy" decoding="async"></a>
   <a class="photo-tile" href="/images/russia-chapter-2/06-hermitage-gallery.jpg" target="_blank" rel="noopener" aria-label="查看大图：冬宫画廊与参观者"><img src="/images/russia-chapter-2/06-hermitage-gallery.jpg" alt="冬宫画廊与参观者" loading="lazy" decoding="async"></a>
@@ -109,7 +109,7 @@ tags:
 
 第二次去列宁号终于登船，但参观必须跟着讲解员，全程俄语，听不懂一点。于是注意力只好转向船里的按钮、管线和人们移动的方向。讲解没听懂，内部结构倒是看得比平时更仔细。
 
-<figure class="photo-grid photo-grid--three">
+<figure class="photo-grid photo-grid--showcase">
   <a class="photo-tile" href="/images/russia-chapter-2/16-lenin-icebreaker.jpg" target="_blank" rel="noopener" aria-label="查看大图：停泊在港口的列宁号破冰船"><img src="/images/russia-chapter-2/16-lenin-icebreaker.jpg" alt="停泊在港口的列宁号破冰船" loading="lazy" decoding="async"></a>
   <a class="photo-tile" href="/images/russia-chapter-2/11-murmansk-control-panel.jpg" target="_blank" rel="noopener" aria-label="查看大图：列宁号内部的控制台"><img src="/images/russia-chapter-2/11-murmansk-control-panel.jpg" alt="列宁号内部的控制台" loading="lazy" decoding="async"></a>
   <a class="photo-tile" href="/images/russia-chapter-2/17-murmansk-railway.jpg" target="_blank" rel="noopener" aria-label="查看大图：摩尔曼斯克的铁路与工业建筑"><img src="/images/russia-chapter-2/17-murmansk-railway.jpg" alt="摩尔曼斯克的铁路与工业建筑" loading="lazy" decoding="async"></a>
