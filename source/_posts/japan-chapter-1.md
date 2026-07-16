@@ -22,7 +22,7 @@ tags:
 
 第一章写关东这一段：东京、江之岛和伊豆。重新整理照片时，发现比景点更值得写的，其实是便利店饭团、陌生人帮忙垫的六百日元、没有闸门的车站，还有早上七点没人泡的露天温泉。
 
-## 8 月 4 日｜东京像是没有急着更新
+## 东京｜刚到时，旧东西为什么还在
 
 去香港的飞机因为大雨晚点一个小时，原定八十分钟的航程被压缩到四十分钟；转东京的航班又推迟二十分钟，晚上七点十分才落地。刚到日本时最直接的感受不是繁华，而是“旧”：机场和便利店里有许多白发工作人员，街上的公交车和轿车带着复古轮廓，电线在楼宇之间密密交错。
 
@@ -61,33 +61,7 @@ tags:
   <figcaption>东京不是一串地名，也包括坐下来吃饭和喝醉的晚上。</figcaption>
 </figure>
 
-## 8 月 5 日｜电车从江之岛的生活里穿过去
-
-去镰仓和江之岛，印象最深的是电车与住宅之间几乎没有缓冲。列车贴着人行道和房屋疾驰，有些路段甚至看不到护栏，铁轨不是被隔离开的交通设施，而是直接嵌在居民每天经过的街道里。
-
-在国内坐惯了有围栏、站台门和明确边界的轨道交通，第一次看到这里的电车会有点不放心。车窗几乎贴着住宅掠过去，行人就在轨道旁边走，路口也没有很夸张的隔离设施。可当地人照常骑车、过街、等车，没有人觉得这是什么需要特别注意的景观。
-
-我们原本是来海边，最后相机却先对准了铁路。电车开过去以后，街道很快恢复安静，便利店和住家仍然开着门。等下一班车出现，铃声响起，大家停下来让路，车一过又继续做自己的事。这里的铁路不是把生活切开的线，而是生活每天都会让一下的位置。
-
-<figure class="photo-grid photo-grid--three">
-  <a class="photo-tile" href="/images/japan-chapter-1/19-enoshima-railway-crossing.jpg" target="_blank" rel="noopener"><img src="/images/japan-chapter-1/19-enoshima-railway-crossing.jpg" alt="江之岛电车经过的十字路口" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="/images/japan-chapter-1/20-enoshima-railway.jpg" target="_blank" rel="noopener"><img src="/images/japan-chapter-1/20-enoshima-railway.jpg" alt="江之岛沿线的电车" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="/images/japan-chapter-1/21-enoshima-seaside.jpg" target="_blank" rel="noopener"><img src="/images/japan-chapter-1/21-enoshima-seaside.jpg" alt="江之岛海边" loading="lazy" decoding="async"></a>
-  <figcaption>铁轨、街道与海边没有清楚的边界。</figcaption>
-</figure>
-
-江之岛同时拍了数码和胶片。数码把海浪拍得更清楚，胶片的颜色和颗粒更明显，放在一起看刚好，不需要硬统一成一种风格。
-
-走到海边以后，行程反而简单了：看海、沿路走、找地方休息。没有特别复杂的景点顺序，也不用一直确认下一班车。胶片是在这种时候拍得最多的，因为不需要立刻检查效果，按完快门就继续往前。直到旅行结束冲洗出来，才知道当时留下了哪些画面。
-
-<figure class="photo-grid photo-grid--three">
-  <a class="photo-tile" href="/images/japan-chapter-1/22-enoshima-waves.jpg" target="_blank" rel="noopener"><img src="/images/japan-chapter-1/22-enoshima-waves.jpg" alt="江之岛的海浪" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="/images/japan-chapter-1/23-enoshima-film-35.jpg" target="_blank" rel="noopener"><img src="/images/japan-chapter-1/23-enoshima-film-35.jpg" alt="胶片里的江之岛" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="/images/japan-chapter-1/24-enoshima-film-2311.jpg" target="_blank" rel="noopener"><img src="/images/japan-chapter-1/24-enoshima-film-2311.jpg" alt="胶片记录的江之岛海边" loading="lazy" decoding="async"></a>
-  <figcaption>同一片海，在数码和胶片里留下不同的记忆。</figcaption>
-</figure>
-
-## 8 月 6 日｜涩谷的高处、唱片店和雨后青草
+## 东京｜涩谷、唱片店和雨后青草
 
 从涩谷 SKY 看出去，东京塔在一大片楼中间其实很小。回到地面，涩谷街道和歌舞伎町新楼里的电玩城又全是广告、灯光和声音。歌舞伎町白天也很乱：牛郎的大幅广告、路边举牌的人、争执的人和醉倒的人都能碰到。
 
@@ -116,7 +90,7 @@ SG Club 的酒保很会聊天，也很乐意确认我们是否听懂。他介绍
   <figcaption>唱片、吉他、酒和回去路上的街头演出。</figcaption>
 </figure>
 
-## 8 月 7 日｜下北泽 Shelter 与陌生人的六百日元
+## 东京｜下北泽 Shelter 与陌生人的六百日元
 
 晚上去下北泽 Shelter 看 live。排队时队伍突然分成两列，我们完全听不懂广播，只能向前面的女孩求助。半英语半翻译聊了很久，才知道是按号码进场。后来又有两个女孩加入，她们都是独自来看演出的大学生。
 
@@ -136,7 +110,33 @@ SG Club 的酒保很会聊天，也很乐意确认我们是否听懂。他介绍
   <figcaption>一个地下室现场，以及旅行中只见过一次的人。</figcaption>
 </figure>
 
-## 8 月 8—9 日｜在伊豆把速度降下来
+## 江之岛｜电车从生活里穿过去
+
+去镰仓和江之岛，印象最深的是电车与住宅之间几乎没有缓冲。列车贴着人行道和房屋疾驰，有些路段甚至看不到护栏，铁轨不是被隔离开的交通设施，而是直接嵌在居民每天经过的街道里。
+
+在国内坐惯了有围栏、站台门和明确边界的轨道交通，第一次看到这里的电车会有点不放心。车窗几乎贴着住宅掠过去，行人就在轨道旁边走，路口也没有很夸张的隔离设施。可当地人照常骑车、过街、等车，没有人觉得这是什么需要特别注意的景观。
+
+我们原本是来海边，最后相机却先对准了铁路。电车开过去以后，街道很快恢复安静，便利店和住家仍然开着门。等下一班车出现，铃声响起，大家停下来让路，车一过又继续做自己的事。这里的铁路不是把生活切开的线，而是生活每天都会让一下的位置。
+
+<figure class="photo-grid photo-grid--three">
+  <a class="photo-tile" href="/images/japan-chapter-1/19-enoshima-railway-crossing.jpg" target="_blank" rel="noopener"><img src="/images/japan-chapter-1/19-enoshima-railway-crossing.jpg" alt="江之岛电车经过的十字路口" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/japan-chapter-1/20-enoshima-railway.jpg" target="_blank" rel="noopener"><img src="/images/japan-chapter-1/20-enoshima-railway.jpg" alt="江之岛沿线的电车" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/japan-chapter-1/21-enoshima-seaside.jpg" target="_blank" rel="noopener"><img src="/images/japan-chapter-1/21-enoshima-seaside.jpg" alt="江之岛海边" loading="lazy" decoding="async"></a>
+  <figcaption>铁轨、街道与海边没有清楚的边界。</figcaption>
+</figure>
+
+江之岛同时拍了数码和胶片。数码把海浪拍得更清楚，胶片的颜色和颗粒更明显，放在一起看刚好，不需要硬统一成一种风格。
+
+走到海边以后，行程反而简单了：看海、沿路走、找地方休息。没有特别复杂的景点顺序，也不用一直确认下一班车。胶片是在这种时候拍得最多的，因为不需要立刻检查效果，按完快门就继续往前。直到旅行结束冲洗出来，才知道当时留下了哪些画面。
+
+<figure class="photo-grid photo-grid--three">
+  <a class="photo-tile" href="/images/japan-chapter-1/22-enoshima-waves.jpg" target="_blank" rel="noopener"><img src="/images/japan-chapter-1/22-enoshima-waves.jpg" alt="江之岛的海浪" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/japan-chapter-1/23-enoshima-film-35.jpg" target="_blank" rel="noopener"><img src="/images/japan-chapter-1/23-enoshima-film-35.jpg" alt="胶片里的江之岛" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/japan-chapter-1/24-enoshima-film-2311.jpg" target="_blank" rel="noopener"><img src="/images/japan-chapter-1/24-enoshima-film-2311.jpg" alt="胶片记录的江之岛海边" loading="lazy" decoding="async"></a>
+  <figcaption>同一片海，在数码和胶片里留下不同的记忆。</figcaption>
+</figure>
+
+## 伊豆｜在海边把速度降下来
 
 去伊豆几乎坐了一整天车。这里的许多小站无人值守，没有闸机，入口只有一台刷卡机器。城市里层层检查的秩序到了海边，变成一种近乎放任的信任。
 
