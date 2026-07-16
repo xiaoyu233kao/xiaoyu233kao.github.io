@@ -3,7 +3,7 @@ title: 俄罗斯·第二章｜从宫殿走进极夜
 date: 2026-01-21 09:30:00
 cover_image: /images/russia-chapter-2/13-murmansk-frozen-lake.jpg
 route: 圣彼得堡 → 摩尔曼斯克 → 莫斯科
-photo_count: 23
+photo_count: 31
 medium: 数码 · 胶片
 description: 从圣彼得堡的宫殿与教堂一路北上，在摩尔曼斯克走进极夜，最后回到莫斯科的人群里。
 excerpt: 从圣彼得堡的宫殿与教堂一路北上，在摩尔曼斯克走进极夜，最后回到莫斯科的人群里。
@@ -72,6 +72,11 @@ tags:
   <figcaption>华丽的展柜、做礼拜的人，以及回到街上以后的巴士与行人。</figcaption>
 </figure>
 
+<figure class="photo-grid photo-grid--landscape-single">
+  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/24-st-petersburg-ceremony.jpg" target="_blank" rel="noopener" aria-label="查看大图：喀山大教堂里的宗教仪式"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/24-st-petersburg-ceremony.jpg" alt="喀山大教堂里的宗教仪式" loading="lazy" decoding="async"></a>
+  <figcaption>喀山大教堂正在举行仪式，烛光和歌声把路过的游客也留在了原地。</figcaption>
+</figure>
+
 ## 1 月 25 日｜去往极夜的小镇
 
 从圣彼得堡飞到摩尔曼斯克，机场小得像一座临时车站。开往市区的 106 路“公交车”是一辆旧面包车。老司机让我们等三分钟，自己下车先抽一支烟；回来以后打开广播，听着欧美摇滚，一边跟节奏摆动一边开车。
@@ -99,6 +104,12 @@ tags:
   <figcaption>湖面被积雪盖住，远看和普通雪地没有区别。</figcaption>
 </figure>
 
+<figure class="photo-grid photo-grid--two">
+  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/25-murmansk-lake-friend.jpg" target="_blank" rel="noopener" aria-label="查看大图：大雪中走过结冰湖面的朋友"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/25-murmansk-lake-friend.jpg" alt="大雪中走过结冰湖面的朋友" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/26-alyosha-monument.jpg" target="_blank" rel="noopener" aria-label="查看大图：风雪里的阿廖沙纪念碑"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/26-alyosha-monument.jpg" alt="风雪里的阿廖沙纪念碑" loading="lazy" decoding="async"></a>
+  <figcaption>穿过结冰的大湖，继续往山上的阿廖沙纪念碑走。</figcaption>
+</figure>
+
 隔天下了很大的雪，不是一片片飘，而是一团团砸下来。原本想参观列宁号核动力破冰船，却碰上休息日，只能在码头下面绕一圈。晚上跟着向导追极光，肉眼看到的是偏灰的淡绿色，相机却把它记录得明亮得多。后来回程飞机上又看到一次更清楚的极光，一条绿色光带从舷窗外贯穿天空。特意跟车去追的那晚看得不算清楚，反而在回程飞机上补上了。
 
 <figure class="photo-grid photo-grid--two">
@@ -114,6 +125,12 @@ tags:
   <a class="photo-tile" href="/images/russia-chapter-2/11-murmansk-control-panel.jpg" target="_blank" rel="noopener" aria-label="查看大图：列宁号内部的控制台"><img src="/images/russia-chapter-2/11-murmansk-control-panel.jpg" alt="列宁号内部的控制台" loading="lazy" decoding="async"></a>
   <a class="photo-tile" href="/images/russia-chapter-2/17-murmansk-railway.jpg" target="_blank" rel="noopener" aria-label="查看大图：摩尔曼斯克的铁路与工业建筑"><img src="/images/russia-chapter-2/17-murmansk-railway.jpg" alt="摩尔曼斯克的铁路与工业建筑" loading="lazy" decoding="async"></a>
   <figcaption>列宁号的外观、内部控制台，以及港口附近的铁路。</figcaption>
+</figure>
+
+<figure class="photo-grid photo-grid--two">
+  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/27-lenin-icebreaker-interior.jpg" target="_blank" rel="noopener" aria-label="查看大图：列宁号内部的通信设备"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/27-lenin-icebreaker-interior.jpg" alt="列宁号内部的通信设备" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/28-murmansk-ice-free-port.jpg" target="_blank" rel="noopener" aria-label="查看大图：冬季仍有海水的摩尔曼斯克不冻港"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/28-murmansk-ice-free-port.jpg" alt="冬季仍有海水的摩尔曼斯克不冻港" loading="lazy" decoding="async"></a>
+  <figcaption>船舱里的旧设备很安静，外面的不冻港仍有船只和吊机在工作。</figcaption>
 </figure>
 
 摩尔曼斯克最后一晚，在已经空下来的街上遇到一群刚从酒吧出来的人。一个喝醉的女人不断做滑雪动作，旁边的人笑着解释她真的太醉了，不要相信她说的话。他们邀请我们去基洛夫斯克滑雪，说可以免费借雪板，还认真批评摩尔曼斯克有“地狱般”的餐厅。分别前，那个女人给我们每人发了一条口香糖，我们把手里买多的汉堡送给他们。没有人完全听懂对方，大家还是完成了一次很快乐的告别。
@@ -132,7 +149,18 @@ tags:
   <figcaption>纪念建筑、雪地公园、冬季市集和卫国战争纪念馆外景。</figcaption>
 </figure>
 
+<figure class="photo-grid photo-grid--two">
+  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/29-kremlin-square.jpg" target="_blank" rel="noopener" aria-label="查看大图：冬日里的克里姆林宫广场"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/29-kremlin-square.jpg" alt="冬日里的克里姆林宫广场" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/30-moscow-snow-path.jpg" target="_blank" rel="noopener" aria-label="查看大图：穿过莫斯科公园的雪中小道"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/30-moscow-snow-path.jpg" alt="穿过莫斯科公园的雪中小道" loading="lazy" decoding="async"></a>
+  <figcaption>克里姆林宫外的蓝天，以及积雪几乎没过小路的公园。</figcaption>
+</figure>
+
 有天晚上去柴可夫斯基音乐厅听维瓦尔第。内场四千卢布，看台一千卢布，比国内便宜得出乎意料。演出结束回酒店，便利店那个很有活力的大叔又在值班。他只会三个中文词，而且每次都连在一起说：“你好谢谢再见。”很难判断他是否知道每个词的意思，但并不影响他每次看见我们都非常高兴。
+
+<figure class="photo-grid photo-grid--landscape-single">
+  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/31-moscow-concert.jpg" target="_blank" rel="noopener" aria-label="查看大图：柴可夫斯基音乐厅演出谢幕"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/31-moscow-concert.jpg" alt="柴可夫斯基音乐厅演出谢幕" loading="lazy" decoding="async"></a>
+  <figcaption>演出结束后，乐团和合唱团在台上谢幕。</figcaption>
+</figure>
 
 ## 2 月 2 日｜最后仍然是有人指路
 
