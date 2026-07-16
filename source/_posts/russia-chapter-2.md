@@ -54,10 +54,10 @@ tags:
 
 第二天从上午十一点逛冬宫，一直到晚上七点仍然没看完。照片能记录金色的墙、长廊和藏品，却很难表现空间本身的压迫感。房间接着房间，画作、雕塑、盔甲和工艺品像没有尽头。走到后半程，已经分不清自己是在认真观看，还是单纯被庞大的数量推着继续向前。
 
-<figure class="photo-grid photo-grid--feature">
+<figure class="photo-grid photo-grid--showcase">
   <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/04-hermitage-corridor.jpg" target="_blank" rel="noopener" aria-label="查看大图：冬宫深处的长廊"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/04-hermitage-corridor.jpg" alt="冬宫深处的长廊" loading="lazy" decoding="async"></a>
   <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/05-hermitage-helmets.jpg" target="_blank" rel="noopener" aria-label="查看大图：冬宫展柜里的银色头盔"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/05-hermitage-helmets.jpg" alt="冬宫展柜里的银色头盔" loading="lazy" decoding="async"></a>
-  <a class="photo-tile photo-tile--tall" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/06-hermitage-gallery.jpg" target="_blank" rel="noopener" aria-label="查看大图：冬宫画廊与参观者"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/06-hermitage-gallery.jpg" alt="冬宫画廊与参观者" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/06-hermitage-gallery.jpg" target="_blank" rel="noopener" aria-label="查看大图：冬宫画廊与参观者"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/06-hermitage-gallery.jpg" alt="冬宫画廊与参观者" loading="lazy" decoding="async"></a>
   <figcaption>冬宫让人最难忘的不是某一件藏品，而是一眼看不到头的空间。</figcaption>
 </figure>
 
@@ -109,7 +109,7 @@ tags:
 
 第二次去列宁号终于登船，但参观必须跟着讲解员，全程俄语，听不懂一点。于是注意力只好转向船里的按钮、管线和人们移动的方向。讲解没听懂，内部结构倒是看得比平时更仔细。
 
-<figure class="photo-grid photo-grid--feature">
+<figure class="photo-grid photo-grid--showcase">
   <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/16-lenin-icebreaker.jpg" target="_blank" rel="noopener" aria-label="查看大图：停泊在港口的列宁号破冰船"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/16-lenin-icebreaker.jpg" alt="停泊在港口的列宁号破冰船" loading="lazy" decoding="async"></a>
   <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/11-murmansk-control-panel.jpg" target="_blank" rel="noopener" aria-label="查看大图：列宁号内部的控制台"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/11-murmansk-control-panel.jpg" alt="列宁号内部的控制台" loading="lazy" decoding="async"></a>
   <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/17-murmansk-railway.jpg" target="_blank" rel="noopener" aria-label="查看大图：摩尔曼斯克的铁路与工业建筑"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/17-murmansk-railway.jpg" alt="摩尔曼斯克的铁路与工业建筑" loading="lazy" decoding="async"></a>
@@ -124,11 +124,12 @@ tags:
 
 几天里去了航天博物馆、红场、卫国战争纪念馆和列宁墓。博物馆和纪念建筑的内容都很沉重，回到街上以后，注意力又会落到吃饭和逛便利店这些小事上。有人买两瓶啤酒，坐到快餐店里配一桶炸鸡；便利店有西瓜味好丽友派，绿皮、红瓤，长得像一块不太安全的甜点；店员发现我们是中国人，会偷偷刷自己的员工卡替我们打折。
 
-<figure class="photo-grid photo-grid--three">
+<figure class="photo-grid photo-grid--two">
   <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/18-moscow-winter-monument.jpg" target="_blank" rel="noopener" aria-label="查看大图：胶片里的莫斯科冬日纪念建筑"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/18-moscow-winter-monument.jpg" alt="胶片里的莫斯科冬日纪念建筑" loading="lazy" decoding="async"></a>
   <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/19-moscow-snow-park.jpg" target="_blank" rel="noopener" aria-label="查看大图：雪地公园里的莫斯科"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/19-moscow-snow-park.jpg" alt="雪地公园里的莫斯科" loading="lazy" decoding="async"></a>
   <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/20-moscow-winter-fair.jpg" target="_blank" rel="noopener" aria-label="查看大图：莫斯科冬季市集的人群"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/20-moscow-winter-fair.jpg" alt="莫斯科冬季市集的人群" loading="lazy" decoding="async"></a>
-  <figcaption>纪念建筑很远，生活却一直发生在雪地和市集之间。</figcaption>
+  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/21-victory-museum-exterior.jpg" target="_blank" rel="noopener" aria-label="查看大图：雪地里的卫国战争纪念馆外景"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/21-victory-museum-exterior.jpg" alt="雪地里的卫国战争纪念馆外景" loading="lazy" decoding="async"></a>
+  <figcaption>纪念建筑、雪地公园、冬季市集和卫国战争纪念馆外景。</figcaption>
 </figure>
 
 有天晚上去柴可夫斯基音乐厅听维瓦尔第。内场四千卢布，看台一千卢布，比国内便宜得出乎意料。演出结束回酒店，便利店那个很有活力的大叔又在值班。他只会三个中文词，而且每次都连在一起说：“你好谢谢再见。”很难判断他是否知道每个词的意思，但并不影响他每次看见我们都非常高兴。
@@ -137,11 +138,10 @@ tags:
 
 最后一天去了武装力量大教堂。之前已经看过圣彼得堡那么多教堂，以为自己不会再被建筑震住，第一眼还是停了下来。深绿色外墙、金色穹顶和雪地放在一起，既庄严又有一种很不真实的舞台感。教堂里几个穿军装的年轻人清唱圣歌，一唱就是半个小时，声音稳定得像职业合唱团。
 
-<figure class="photo-grid photo-grid--feature">
-  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/21-armed-forces-cathedral.jpg" target="_blank" rel="noopener" aria-label="查看大图：雪后的武装力量大教堂外景"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/21-armed-forces-cathedral.jpg" alt="雪后的武装力量大教堂外景" loading="lazy" decoding="async"></a>
-  <a class="photo-tile photo-tile--tall" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/22-moscow-concert-stage.jpg" target="_blank" rel="noopener" aria-label="查看大图：武装力量大教堂内部的蓝色圣像"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/22-moscow-concert-stage.jpg" alt="武装力量大教堂内部的蓝色圣像" loading="lazy" decoding="async"></a>
+<figure class="photo-grid photo-grid--mixed">
+  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/22-moscow-concert-stage.jpg" target="_blank" rel="noopener" aria-label="查看大图：武装力量大教堂内部的蓝色圣像"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/22-moscow-concert-stage.jpg" alt="武装力量大教堂内部的蓝色圣像" loading="lazy" decoding="async"></a>
   <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/23-moscow-concert-hall.jpg" target="_blank" rel="noopener" aria-label="查看大图：夜晚亮灯的武装力量大教堂"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/23-moscow-concert-hall.jpg" alt="夜晚亮灯的武装力量大教堂" loading="lazy" decoding="async"></a>
-  <figcaption>同一座教堂的雪后外景、内部圣像和夜景。</figcaption>
+  <figcaption>武装力量大教堂内部的圣像和夜景。</figcaption>
 </figure>
 
 回程坐电车，不知道从哪里进入站台。工作人员给我们指了方向，结果指到铁轨对面；顺着当地人的走法才发现，大家真的直接跨过轨道进站，远处已经能看到火车的大灯。俄罗斯旅行最后仍然是有人指路，只不过这一次，那条路多少有点让人怀疑人生。
