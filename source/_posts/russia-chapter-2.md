@@ -1,7 +1,7 @@
 ---
 title: 俄罗斯·第二章｜从宫殿走进极夜
 date: 2026-01-21 09:30:00
-cover_image: https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/13-murmansk-frozen-lake.jpg
+cover_image: /images/russia-chapter-2/13-murmansk-frozen-lake.jpg
 route: 圣彼得堡 → 摩尔曼斯克 → 莫斯科
 photo_count: 31
 medium: 数码 · 胶片
@@ -32,8 +32,8 @@ tags:
 这种热情后来出现了很多次。我们只要站在路边找地图，就有人过来询问；对方不会英语，我们不会俄语，几个人便围着翻译器研究五分钟。语言并没有因此变得相通，但“我想帮你”这件事通常不需要完整翻译。
 
 <figure class="photo-grid photo-grid--two">
-  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/01-st-petersburg-arrival.jpg" target="_blank" rel="noopener" aria-label="查看大图：初到圣彼得堡的雪后街道"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/01-st-petersburg-arrival.jpg" alt="初到圣彼得堡的雪后街道" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/02-st-petersburg-blue-hour.jpg" target="_blank" rel="noopener" aria-label="查看大图：蓝调时刻里的圣彼得堡"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/02-st-petersburg-blue-hour.jpg" alt="蓝调时刻里的圣彼得堡" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/russia-chapter-2/01-st-petersburg-arrival.jpg" target="_blank" rel="noopener" aria-label="查看大图：初到圣彼得堡的雪后街道"><img src="/images/russia-chapter-2/01-st-petersburg-arrival.jpg" alt="初到圣彼得堡的雪后街道" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/russia-chapter-2/02-st-petersburg-blue-hour.jpg" target="_blank" rel="noopener" aria-label="查看大图：蓝调时刻里的圣彼得堡"><img src="/images/russia-chapter-2/02-st-petersburg-blue-hour.jpg" alt="蓝调时刻里的圣彼得堡" loading="lazy" decoding="async"></a>
   <figcaption>一夜火车以后，圣彼得堡在雪和蓝色天光里慢慢出现。</figcaption>
 </figure>
 
@@ -48,16 +48,16 @@ tags:
 好在晚上去了格鲁吉亚餐厅。邻桌四个俄罗斯哥们给我们介绍菜，又送来一杯据说八十度的 shot。我和其中一人干杯以后，他立刻把我们当成兄弟，听说下一站是摩尔曼斯克，认真推荐了他夏天去钓鱼的捷里别尔卡。临走还让我们试一支巧克力味 Chapman 香烟，并用不太成功的英语教我怎么呼吸。大家其实没聊明白多少，但一杯酒和几句只听懂一半的话，已经足够让两桌人一起笑起来。
 
 <figure class="photo-grid photo-grid--landscape-single">
-  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/03-georgian-dinner.jpg" target="_blank" rel="noopener" aria-label="查看大图：格鲁吉亚餐厅里刚认识的朋友"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/03-georgian-dinner.jpg" alt="格鲁吉亚餐厅里刚认识的朋友" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/russia-chapter-2/03-georgian-dinner.jpg" target="_blank" rel="noopener" aria-label="查看大图：格鲁吉亚餐厅里刚认识的朋友"><img src="/images/russia-chapter-2/03-georgian-dinner.jpg" alt="格鲁吉亚餐厅里刚认识的朋友" loading="lazy" decoding="async"></a>
   <figcaption>一杯烈酒之后，邻桌就变成了合影里的人。</figcaption>
 </figure>
 
 第二天从上午十一点逛冬宫，一直到晚上七点仍然没看完。照片能记录金色的墙、长廊和藏品，却很难表现空间本身的压迫感。房间接着房间，画作、雕塑、盔甲和工艺品像没有尽头。走到后半程，已经分不清自己是在认真观看，还是单纯被庞大的数量推着继续向前。
 
 <figure class="photo-grid photo-grid--showcase">
-  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/04-hermitage-corridor.jpg" target="_blank" rel="noopener" aria-label="查看大图：冬宫深处的长廊"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/04-hermitage-corridor.jpg" alt="冬宫深处的长廊" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/05-hermitage-helmets.jpg" target="_blank" rel="noopener" aria-label="查看大图：冬宫展柜里的银色头盔"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/05-hermitage-helmets.jpg" alt="冬宫展柜里的银色头盔" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/06-hermitage-gallery.jpg" target="_blank" rel="noopener" aria-label="查看大图：冬宫画廊与参观者"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/06-hermitage-gallery.jpg" alt="冬宫画廊与参观者" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/russia-chapter-2/04-hermitage-corridor.jpg" target="_blank" rel="noopener" aria-label="查看大图：冬宫深处的长廊"><img src="/images/russia-chapter-2/04-hermitage-corridor.jpg" alt="冬宫深处的长廊" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/russia-chapter-2/05-hermitage-helmets.jpg" target="_blank" rel="noopener" aria-label="查看大图：冬宫展柜里的银色头盔"><img src="/images/russia-chapter-2/05-hermitage-helmets.jpg" alt="冬宫展柜里的银色头盔" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/russia-chapter-2/06-hermitage-gallery.jpg" target="_blank" rel="noopener" aria-label="查看大图：冬宫画廊与参观者"><img src="/images/russia-chapter-2/06-hermitage-gallery.jpg" alt="冬宫画廊与参观者" loading="lazy" decoding="async"></a>
   <figcaption>冬宫让人最难忘的不是某一件藏品，而是一眼看不到头的空间。</figcaption>
 </figure>
 
@@ -66,9 +66,9 @@ tags:
 隔天沿着城市看教堂：滴血救世主教堂、喀山大教堂、圣以撒大教堂。原以为冬宫已经足够巨大，抬头看到教堂穹顶才发现还不是同一种尺度。喀山大教堂里刚好有仪式，两排穿制服和军装的老人站着唱圣歌，之后人们排队走向圣像，在画像前点蜡烛、祈祷。我们站在旁边，听不懂内容，却能感觉到声音在高墙之间一层层叠起来。
 
 <figure class="photo-grid photo-grid--two">
-  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/07-hermitage-details.jpg" target="_blank" rel="noopener" aria-label="查看大图：展柜里密集而华丽的细节"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/07-hermitage-details.jpg" alt="展柜里密集而华丽的细节" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/08-kazan-cathedral.jpg" target="_blank" rel="noopener" aria-label="查看大图：喀山大教堂前的人群"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/08-kazan-cathedral.jpg" alt="喀山大教堂前的人群" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/09-st-petersburg-tram.jpg" target="_blank" rel="noopener" aria-label="查看大图：圣彼得堡街头的双层巴士与行人"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/09-st-petersburg-tram.jpg" alt="圣彼得堡街头的双层巴士与行人" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/russia-chapter-2/07-hermitage-details.jpg" target="_blank" rel="noopener" aria-label="查看大图：展柜里密集而华丽的细节"><img src="/images/russia-chapter-2/07-hermitage-details.jpg" alt="展柜里密集而华丽的细节" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/russia-chapter-2/08-kazan-cathedral.jpg" target="_blank" rel="noopener" aria-label="查看大图：喀山大教堂前的人群"><img src="/images/russia-chapter-2/08-kazan-cathedral.jpg" alt="喀山大教堂前的人群" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/russia-chapter-2/09-st-petersburg-tram.jpg" target="_blank" rel="noopener" aria-label="查看大图：圣彼得堡街头的双层巴士与行人"><img src="/images/russia-chapter-2/09-st-petersburg-tram.jpg" alt="圣彼得堡街头的双层巴士与行人" loading="lazy" decoding="async"></a>
   <figcaption>华丽的展柜、做礼拜的人，以及回到街上以后的巴士与行人。</figcaption>
 </figure>
 
@@ -84,8 +84,8 @@ tags:
 路上几乎没有别的车，两边是被铲起来的高雪堆。窗外始终停留在一种不会真正变亮的蓝调时刻。那一刻突然觉得，如果老了以后每天抽完一支烟、听着摇滚，在空无一人的雪地里开车，好像也很自由。
 
 <figure class="photo-grid photo-grid--two">
-  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/10-murmansk-film-portrait.jpg" target="_blank" rel="noopener" aria-label="查看大图：胶片里被雪光覆盖的人像"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/10-murmansk-film-portrait.jpg" alt="胶片里被雪光覆盖的人像" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/12-murmansk-snow-cabin.jpg" target="_blank" rel="noopener" aria-label="查看大图：雪地里的小屋和停靠车辆"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/12-murmansk-snow-cabin.jpg" alt="雪地里的小屋和停靠车辆" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/russia-chapter-2/10-murmansk-film-portrait.jpg" target="_blank" rel="noopener" aria-label="查看大图：胶片里被雪光覆盖的人像"><img src="/images/russia-chapter-2/10-murmansk-film-portrait.jpg" alt="胶片里被雪光覆盖的人像" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/russia-chapter-2/12-murmansk-snow-cabin.jpg" target="_blank" rel="noopener" aria-label="查看大图：雪地里的小屋和停靠车辆"><img src="/images/russia-chapter-2/12-murmansk-snow-cabin.jpg" alt="雪地里的小屋和停靠车辆" loading="lazy" decoding="async"></a>
   <figcaption>刚到摩尔曼斯克，胶片人像和路边积雪是最先留下的画面。</figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ tags:
 地图上看起来可以直走，到了现场才知道雪地里的近路未必能走。有人踩过的路线虽然绕一点，至少不会陷到膝盖。
 
 <figure class="photo-grid photo-grid--landscape-single">
-  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/13-murmansk-frozen-lake.jpg" target="_blank" rel="noopener" aria-label="查看大图：结冰大湖上行走的人"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/13-murmansk-frozen-lake.jpg" alt="结冰大湖上行走的人" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/russia-chapter-2/13-murmansk-frozen-lake.jpg" target="_blank" rel="noopener" aria-label="查看大图：结冰大湖上行走的人"><img src="/images/russia-chapter-2/13-murmansk-frozen-lake.jpg" alt="结冰大湖上行走的人" loading="lazy" decoding="async"></a>
   <figcaption>湖面被积雪盖住，远看和普通雪地没有区别。</figcaption>
 </figure>
 
@@ -113,17 +113,17 @@ tags:
 隔天下了很大的雪，不是一片片飘，而是一团团砸下来。原本想参观列宁号核动力破冰船，却碰上休息日，只能在码头下面绕一圈。晚上跟着向导追极光，肉眼看到的是偏灰的淡绿色，相机却把它记录得明亮得多。后来回程飞机上又看到一次更清楚的极光，一条绿色光带从舷窗外贯穿天空。特意跟车去追的那晚看得不算清楚，反而在回程飞机上补上了。
 
 <figure class="photo-grid photo-grid--two">
-  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/14-murmansk-aurora.jpg" target="_blank" rel="noopener" aria-label="查看大图：摩尔曼斯克雪原上方的极光"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/14-murmansk-aurora.jpg" alt="摩尔曼斯克雪原上方的极光" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/15-murmansk-aurora-trees.jpg" target="_blank" rel="noopener" aria-label="查看大图：越过雪树的绿色极光"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/15-murmansk-aurora-trees.jpg" alt="越过雪树的绿色极光" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/russia-chapter-2/14-murmansk-aurora.jpg" target="_blank" rel="noopener" aria-label="查看大图：摩尔曼斯克雪原上方的极光"><img src="/images/russia-chapter-2/14-murmansk-aurora.jpg" alt="摩尔曼斯克雪原上方的极光" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/russia-chapter-2/15-murmansk-aurora-trees.jpg" target="_blank" rel="noopener" aria-label="查看大图：越过雪树的绿色极光"><img src="/images/russia-chapter-2/15-murmansk-aurora-trees.jpg" alt="越过雪树的绿色极光" loading="lazy" decoding="async"></a>
   <figcaption>肉眼里很淡的光，被相机留成了雪夜最鲜明的颜色。</figcaption>
 </figure>
 
 第二次去列宁号终于登船，但参观必须跟着讲解员，全程俄语，听不懂一点。于是注意力只好转向船里的按钮、管线和人们移动的方向。讲解没听懂，内部结构倒是看得比平时更仔细。
 
 <figure class="photo-grid photo-grid--showcase">
-  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/16-lenin-icebreaker.jpg" target="_blank" rel="noopener" aria-label="查看大图：停泊在港口的列宁号破冰船"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/16-lenin-icebreaker.jpg" alt="停泊在港口的列宁号破冰船" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/11-murmansk-control-panel.jpg" target="_blank" rel="noopener" aria-label="查看大图：列宁号内部的控制台"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/11-murmansk-control-panel.jpg" alt="列宁号内部的控制台" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/17-murmansk-railway.jpg" target="_blank" rel="noopener" aria-label="查看大图：摩尔曼斯克的铁路与工业建筑"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/17-murmansk-railway.jpg" alt="摩尔曼斯克的铁路与工业建筑" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/russia-chapter-2/16-lenin-icebreaker.jpg" target="_blank" rel="noopener" aria-label="查看大图：停泊在港口的列宁号破冰船"><img src="/images/russia-chapter-2/16-lenin-icebreaker.jpg" alt="停泊在港口的列宁号破冰船" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/russia-chapter-2/11-murmansk-control-panel.jpg" target="_blank" rel="noopener" aria-label="查看大图：列宁号内部的控制台"><img src="/images/russia-chapter-2/11-murmansk-control-panel.jpg" alt="列宁号内部的控制台" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/russia-chapter-2/17-murmansk-railway.jpg" target="_blank" rel="noopener" aria-label="查看大图：摩尔曼斯克的铁路与工业建筑"><img src="/images/russia-chapter-2/17-murmansk-railway.jpg" alt="摩尔曼斯克的铁路与工业建筑" loading="lazy" decoding="async"></a>
   <figcaption>列宁号的外观、内部控制台，以及港口附近的铁路。</figcaption>
 </figure>
 
@@ -142,10 +142,10 @@ tags:
 几天里去了航天博物馆、红场、卫国战争纪念馆和列宁墓。博物馆和纪念建筑的内容都很沉重，回到街上以后，注意力又会落到吃饭和逛便利店这些小事上。有人买两瓶啤酒，坐到快餐店里配一桶炸鸡；便利店有西瓜味好丽友派，绿皮、红瓤，长得像一块不太安全的甜点；店员发现我们是中国人，会偷偷刷自己的员工卡替我们打折。
 
 <figure class="photo-grid photo-grid--two">
-  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/18-moscow-winter-monument.jpg" target="_blank" rel="noopener" aria-label="查看大图：胶片里的莫斯科冬日纪念建筑"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/18-moscow-winter-monument.jpg" alt="胶片里的莫斯科冬日纪念建筑" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/19-moscow-snow-park.jpg" target="_blank" rel="noopener" aria-label="查看大图：雪地公园里的莫斯科"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/19-moscow-snow-park.jpg" alt="雪地公园里的莫斯科" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/20-moscow-winter-fair.jpg" target="_blank" rel="noopener" aria-label="查看大图：莫斯科冬季市集的人群"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/20-moscow-winter-fair.jpg" alt="莫斯科冬季市集的人群" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/21-victory-museum-exterior.jpg" target="_blank" rel="noopener" aria-label="查看大图：雪地里的卫国战争纪念馆外景"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/21-victory-museum-exterior.jpg" alt="雪地里的卫国战争纪念馆外景" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/russia-chapter-2/18-moscow-winter-monument.jpg" target="_blank" rel="noopener" aria-label="查看大图：胶片里的莫斯科冬日纪念建筑"><img src="/images/russia-chapter-2/18-moscow-winter-monument.jpg" alt="胶片里的莫斯科冬日纪念建筑" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/russia-chapter-2/19-moscow-snow-park.jpg" target="_blank" rel="noopener" aria-label="查看大图：雪地公园里的莫斯科"><img src="/images/russia-chapter-2/19-moscow-snow-park.jpg" alt="雪地公园里的莫斯科" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/russia-chapter-2/20-moscow-winter-fair.jpg" target="_blank" rel="noopener" aria-label="查看大图：莫斯科冬季市集的人群"><img src="/images/russia-chapter-2/20-moscow-winter-fair.jpg" alt="莫斯科冬季市集的人群" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/21-armed-forces-cathedral.jpg" target="_blank" rel="noopener" aria-label="查看大图：雪地里的卫国战争纪念馆外景"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/21-armed-forces-cathedral.jpg" alt="雪地里的卫国战争纪念馆外景" loading="lazy" decoding="async"></a>
   <figcaption>纪念建筑、雪地公园、冬季市集和卫国战争纪念馆外景。</figcaption>
 </figure>
 
@@ -167,8 +167,8 @@ tags:
 最后一天去了武装力量大教堂。之前已经看过圣彼得堡那么多教堂，以为自己不会再被建筑震住，第一眼还是停了下来。深绿色外墙、金色穹顶和雪地放在一起，既庄严又有一种很不真实的舞台感。教堂里几个穿军装的年轻人清唱圣歌，一唱就是半个小时，声音稳定得像职业合唱团。
 
 <figure class="photo-grid photo-grid--mixed">
-  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/22-moscow-concert-stage.jpg" target="_blank" rel="noopener" aria-label="查看大图：武装力量大教堂内部的蓝色圣像"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/22-moscow-concert-stage.jpg" alt="武装力量大教堂内部的蓝色圣像" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/23-moscow-concert-hall.jpg" target="_blank" rel="noopener" aria-label="查看大图：夜晚亮灯的武装力量大教堂"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/23-moscow-concert-hall.jpg" alt="夜晚亮灯的武装力量大教堂" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/russia-chapter-2/22-moscow-concert-stage.jpg" target="_blank" rel="noopener" aria-label="查看大图：武装力量大教堂内部的蓝色圣像"><img src="/images/russia-chapter-2/22-moscow-concert-stage.jpg" alt="武装力量大教堂内部的蓝色圣像" loading="lazy" decoding="async"></a>
+  <a class="photo-tile" href="/images/russia-chapter-2/23-moscow-concert-hall.jpg" target="_blank" rel="noopener" aria-label="查看大图：夜晚亮灯的武装力量大教堂"><img src="/images/russia-chapter-2/23-moscow-concert-hall.jpg" alt="夜晚亮灯的武装力量大教堂" loading="lazy" decoding="async"></a>
   <figcaption>武装力量大教堂内部的圣像和夜景。</figcaption>
 </figure>
 
