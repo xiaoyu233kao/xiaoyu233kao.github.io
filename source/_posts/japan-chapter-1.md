@@ -69,9 +69,9 @@ tags:
 
 进到新建商业楼里的电玩城，外面那种混乱突然又变成了非常整齐的灯光和机器声。楼是新的，游戏内容却还是熟悉的街机、抓娃娃机和音游。东京经常给人这种反差：刚觉得它很未来，下一步又会撞见某种用了很多年的东西。
 
-<figure class="photo-grid photo-grid--three">
+<figure class="photo-grid photo-grid--mixed-three">
   <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/10-tokyo-shibuya-street.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/10-tokyo-shibuya-street.jpg" alt="涩谷街道" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/11-tokyo-shibuya-sky.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/11-tokyo-shibuya-sky.jpg" alt="从涩谷 SKY 看东京塔" loading="lazy" decoding="async"></a>
+  <a class="photo-tile photo-tile--portrait" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/11-tokyo-shibuya-sky.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/11-tokyo-shibuya-sky.jpg" alt="从涩谷 SKY 看东京塔" loading="lazy" decoding="async"></a>
   <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/12-tokyo-kabukicho-arcade.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/12-tokyo-kabukicho-arcade.jpg" alt="歌舞伎町新楼里的电玩城" loading="lazy" decoding="async"></a>
   <figcaption>从高处的东京塔，到地面的广告、游戏与人群。</figcaption>
 </figure>
@@ -118,10 +118,10 @@ SG Club 的酒保很会聊天，也很乐意确认我们是否听懂。他介绍
 
 我们原本是来海边，最后相机却先对准了铁路。电车开过去以后，街道很快恢复安静，便利店和住家仍然开着门。等下一班车出现，铃声响起，大家停下来让路，车一过又继续做自己的事。这里的铁路不是把生活切开的线，而是生活每天都会让一下的位置。
 
-<figure class="photo-grid photo-grid--three">
+<figure class="photo-grid photo-grid--mixed-three">
   <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/19-enoshima-railway-crossing.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/19-enoshima-railway-crossing.jpg" alt="江之岛电车经过的十字路口" loading="lazy" decoding="async"></a>
   <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/20-enoshima-railway.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/20-enoshima-railway.jpg" alt="江之岛沿线的电车" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/21-enoshima-seaside.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/21-enoshima-seaside.jpg" alt="江之岛海边" loading="lazy" decoding="async"></a>
+  <a class="photo-tile photo-tile--portrait" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/21-enoshima-seaside.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/21-enoshima-seaside.jpg" alt="江之岛海边" loading="lazy" decoding="async"></a>
   <figcaption>铁轨、街道与海边没有清楚的边界。</figcaption>
 </figure>
 
@@ -129,9 +129,9 @@ SG Club 的酒保很会聊天，也很乐意确认我们是否听懂。他介绍
 
 走到海边以后，行程反而简单了：看海、沿路走、找地方休息。没有特别复杂的景点顺序，也不用一直确认下一班车。胶片是在这种时候拍得最多的，因为不需要立刻检查效果，按完快门就继续往前。直到旅行结束冲洗出来，才知道当时留下了哪些画面。
 
-<figure class="photo-grid photo-grid--three">
+<figure class="photo-grid photo-grid--mixed-three">
   <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/22-enoshima-waves.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/22-enoshima-waves.jpg" alt="江之岛的海浪" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/23-enoshima-film-35.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/23-enoshima-film-35.jpg" alt="胶片里的江之岛" loading="lazy" decoding="async"></a>
+  <a class="photo-tile photo-tile--portrait" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/23-enoshima-film-35.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/23-enoshima-film-35.jpg" alt="胶片里的江之岛" loading="lazy" decoding="async"></a>
   <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/24-enoshima-film-2311.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/24-enoshima-film-2311.jpg" alt="胶片记录的江之岛海边" loading="lazy" decoding="async"></a>
   <figcaption>同一片海，在数码和胶片里留下不同的记忆。</figcaption>
 </figure>
@@ -142,9 +142,9 @@ SG Club 的酒保很会聊天，也很乐意确认我们是否听懂。他介绍
 
 刚开始还觉得坐车占掉一天很亏，后来窗外从城市变成低矮房子，再变成山和海，才慢慢不再计算“今天到底玩了几个地方”。伊豆的小站规模很小，有些站连工作人员都看不到。大家进出就在门口刷一下卡，没人盯着，也没有复杂的闸机，第一次经过时还反复确认自己是不是走错了入口。
 
-<figure class="photo-grid photo-grid--three">
+<figure class="photo-grid photo-grid--mixed-two-portraits">
   <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/25-izu-train.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/25-izu-train.jpg" alt="驶向伊豆的电车" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/26-izu-unmanned-station.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/26-izu-unmanned-station.jpg" alt="没有闸门、只有刷卡机器的伊豆无人车站" loading="lazy" decoding="async"></a>
+  <a class="photo-tile photo-tile--landscape" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/26-izu-unmanned-station.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/26-izu-unmanned-station.jpg" alt="没有闸门、只有刷卡机器的伊豆无人车站" loading="lazy" decoding="async"></a>
   <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/27-izu-afternoon-sea.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/27-izu-afternoon-sea.jpg" alt="下午到达伊豆时的海面" loading="lazy" decoding="async"></a>
   <figcaption>坐了一天车，终于在粉色云层下看见海。</figcaption>
 </figure>
@@ -155,9 +155,9 @@ SG Club 的酒保很会聊天，也很乐意确认我们是否听懂。他介绍
 
 温泉泡了四十分钟，因为没有其他人，又成了临时私汤。泡完并没有立刻回房休息，而是穿着浴衣去打乒乓球。晚上再去海边散步，本来只是想从售卖机买点喝的，结果连续几台都写着只收现金。那时觉得很麻烦，回来以后讲伊豆，反而总会把这段找机器的过程一起讲进去。
 
-<figure class="photo-grid photo-grid--three">
+<figure class="photo-grid photo-grid--mixed-three">
   <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/28-izu-coast-film.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/28-izu-coast-film.jpg" alt="胶片里的伊豆海岸" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/29-izu-yurucamp-sake.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/29-izu-yurucamp-sake.jpg" alt="《摇曳露营》里出现的日本酒" loading="lazy" decoding="async"></a>
+  <a class="photo-tile photo-tile--portrait" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/29-izu-yurucamp-sake.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/29-izu-yurucamp-sake.jpg" alt="《摇曳露营》里出现的日本酒" loading="lazy" decoding="async"></a>
   <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/30-izu-yukata-pingpong.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/30-izu-yukata-pingpong.jpg" alt="泡完温泉穿浴衣打乒乓球" loading="lazy" decoding="async"></a>
   <figcaption>海边旅馆的一晚：日本酒、浴衣和乒乓球。</figcaption>
 </figure>
