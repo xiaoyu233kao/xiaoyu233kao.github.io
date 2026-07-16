@@ -236,6 +236,12 @@ a { color: inherit; }
 .photo-grid--portraits .photo-tile img,
 .photo-grid--portrait-single .photo-tile img { aspect-ratio: 2 / 3; }
 .photo-grid--landscape-single .photo-tile img { aspect-ratio: 3 / 2; }
+.portfolio-content .photo-grid .photo-tile img {
+  height: auto;
+  aspect-ratio: auto;
+  object-fit: contain;
+}
+.photo-grid--mixed { grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr); align-items: start; }
 .photo-grid--feature .photo-tile--tall { grid-column: 2; grid-row: 1 / span 2; }
 .photo-grid--feature .photo-tile--tall img { aspect-ratio: auto; }
 .photo-tile:hover img { transform: scale(1.018); opacity: .94; }
