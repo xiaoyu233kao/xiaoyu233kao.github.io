@@ -42,10 +42,10 @@ tags:
 
 散场时人群一起往外走，刚才还很热闹的摊位开始收东西，路也一下子变得拥挤。那天没有刻意拍一个“结束”的画面，最后几张仍然是会场和花火。这样也挺符合实际：活动结束得很快，大家一边讨论哪一轮最好看，一边已经开始研究怎么回去。
 
-<figure class="photo-grid photo-grid--three">
+<figure class="photo-grid photo-grid--mixed-three">
   <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/03-fukui-fireworks-29.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/03-fukui-fireworks-29.jpg" alt="福井夜空中的胶片花火" loading="lazy" decoding="async"></a>
   <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/04-fukui-fireworks-30.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/04-fukui-fireworks-30.jpg" alt="盛放在福井夜空中的花火" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/06-fukui-festival-digital.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/06-fukui-festival-digital.jpg" alt="数码相机记录的福井花火大会" loading="lazy" decoding="async"></a>
+  <a class="photo-tile photo-tile--portrait" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/06-fukui-festival-digital.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/06-fukui-festival-digital.jpg" alt="数码相机记录的福井花火大会" loading="lazy" decoding="async"></a>
   <figcaption>胶片与数码各自留下了那一晚的夜空。</figcaption>
 </figure>
 
@@ -57,8 +57,8 @@ tags:
 
 胶片的两张没有刻意追求完全复刻，只是记录当时看到的室内光线和摆设。数码照片则把礼堂拍得更清楚。三张放在一起，一边是粉丝熟悉的场景，一边又是一所真实存在、平时有自己用途的旧校舍。
 
-<figure class="photo-grid photo-grid--three">
-  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/07-toyosato-06.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/07-toyosato-06.jpg" alt="胶片里的丰乡旧校舍" loading="lazy" decoding="async"></a>
+<figure class="photo-grid photo-grid--mixed-three">
+  <a class="photo-tile photo-tile--portrait" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/07-toyosato-06.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/07-toyosato-06.jpg" alt="胶片里的丰乡旧校舍" loading="lazy" decoding="async"></a>
   <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/08-toyosato-231.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/08-toyosato-231.jpg" alt="丰乡旧校舍的胶片画面" loading="lazy" decoding="async"></a>
   <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/09-toyosato-k-on-hall.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/09-toyosato-k-on-hall.jpg" alt="轻音少女里的丰乡礼堂" loading="lazy" decoding="async"></a>
   <figcaption>从作品里的场景，重新看见一座真实的旧校舍。</figcaption>
@@ -96,9 +96,9 @@ tags:
 
 大阪住处周围吃饭很方便，公寓出门就有一家东北老板开的中国菜。旅行时间长了以后，偶尔吃到熟悉的味道确实很有用，不需要研究菜单，也不用猜某道菜到底是什么。老板听到中文就直接开始聊天，那顿饭没有拍得很正式，但很快把大家从连续赶路的状态里拉了回来。
 
-<figure class="photo-grid photo-grid--three">
+<figure class="photo-grid photo-grid--mixed-three">
   <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/14-osaka-conveyor-sushi.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/14-osaka-conveyor-sushi.jpg" alt="从东京到大阪下新干线后的第一顿回转寿司" loading="lazy" decoding="async"></a>
-  <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/15-osaka-giant-beer.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/15-osaka-giant-beer.jpg" alt="大阪居酒屋五百日元、约两点五升的大杯啤酒" loading="lazy" decoding="async"></a>
+  <a class="photo-tile photo-tile--portrait" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/15-osaka-giant-beer.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/15-osaka-giant-beer.jpg" alt="大阪居酒屋五百日元、约两点五升的大杯啤酒" loading="lazy" decoding="async"></a>
   <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/16-osaka-chinese-restaurant.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/16-osaka-chinese-restaurant.jpg" alt="大阪公寓门口东北老板开的中国菜馆" loading="lazy" decoding="async"></a>
   <figcaption>大阪的开场没有仪式感，先是寿司、巨大的啤酒和楼下的中国菜。</figcaption>
 </figure>
@@ -132,7 +132,7 @@ tags:
 
 那天本来一直在看店铺和人群，抬头时才发现云的形状很完整。拍完以后大家继续逛，没有专门停下来等光线，也没人觉得这是旅程的“最后一张”。整理照片时按时间往后翻，它刚好排在大阪这一组的后面，于是就留下来做结尾。
 
-<figure class="photo-grid photo-grid--landscape-single">
+<figure class="photo-grid photo-grid--portrait-single">
   <a class="photo-tile" href="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/22-osaka-shinsaibashi-cloud.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/22-osaka-shinsaibashi-cloud.jpg" alt="逛心斋桥时遇到的云" loading="lazy" decoding="async"></a>
   <figcaption>心斋桥上空的云，为这段从东京一路向西的旅程收尾。</figcaption>
 </figure>
