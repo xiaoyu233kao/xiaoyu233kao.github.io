@@ -183,7 +183,17 @@ a { color: inherit; }
 .entry-content > h2 { counter-increment: journal-section; scroll-margin-top: 140px; }
 .entry-content > h2::before { content: "0" counter(journal-section); display: block; margin-bottom: 9px; color: var(--accent); font-family: system-ui, -apple-system, "Segoe UI", sans-serif; font-size: .62rem; letter-spacing: .16em; }
 .portfolio-content a { color: var(--ink); text-decoration-color: #bbb; text-underline-offset: 4px; }
-.portfolio-content img { display: block; width: min(100vw - 64px, 1040px); max-width: none; height: auto; margin: 3.2rem 0 3.2rem 50%; transform: translateX(-50%); }
+.portfolio-content img {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  max-height: 78vh;
+  height: auto;
+  margin: 3.2rem auto;
+  object-fit: contain;
+}
+.photo-lightbox-link { display: block; cursor: zoom-in; text-decoration: none; }
+.photo-lightbox-link img { cursor: zoom-in; }
 .portfolio-content blockquote { margin: 2.5rem 0; padding-left: 24px; border-left: 1px solid var(--ink); color: var(--muted); }
 
 .photo-grid {
@@ -212,6 +222,7 @@ a { color: inherit; }
 .portfolio-content .photo-tile img {
   width: 100%;
   max-width: none;
+  max-height: none;
   height: 100%;
   aspect-ratio: 3 / 2;
   margin: 0;
@@ -344,7 +355,7 @@ a { color: inherit; }
   .entry-toc a { padding: 7px 10px; border: 1px solid var(--line); white-space: nowrap; }
   .entry-toc a:hover, .entry-toc a.is-active { border-color: var(--ink); transform: none; }
   .portfolio-content { font-size: 1rem; line-height: 1.95; }
-  .portfolio-content img { width: calc(100vw - 40px); margin-top: 2.4rem; margin-bottom: 2.4rem; }
+  .portfolio-content img { width: auto; max-width: 100%; max-height: 72vh; margin: 2.4rem auto; }
   .photo-grid,
   .photo-grid--portraits,
   .photo-grid--portrait-single {
