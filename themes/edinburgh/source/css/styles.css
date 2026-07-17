@@ -261,7 +261,8 @@ a { color: inherit; }
   .photo-grid--showcase .photo-tile:first-child,
   .photo-grid--mixed-three .photo-tile--portrait,
   .photo-grid--mixed-three .photo-tile:not(.photo-tile--portrait),
-  .photo-grid--mixed-two-portraits .photo-tile--landscape { grid-column: 1; grid-row: auto; }
+  .photo-grid--mixed-two-portraits .photo-tile--landscape,
+  .photo-grid--mixed-two-portraits .photo-tile:not(.photo-tile--landscape) { grid-column: 1; grid-row: auto; }
   .photo-grid--mixed-three .photo-tile--portrait { width: min(72vw, 360px); margin-right: auto; margin-left: auto; }
 }
 .photo-grid--feature .photo-tile--tall { grid-column: 2; grid-row: 1 / span 2; }
