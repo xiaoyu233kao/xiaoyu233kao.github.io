@@ -1,5 +1,5 @@
 ---
-title: 俄罗斯·第二章｜从宫殿走进极夜
+title: 俄罗斯·第三章｜从宫殿走进极夜
 date: 2026-01-21 09:30:00
 cover_image: /images/russia-chapter-2/13-murmansk-frozen-lake.jpg
 route: 圣彼得堡 → 摩尔曼斯克 → 莫斯科
