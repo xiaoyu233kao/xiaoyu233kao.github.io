@@ -42,7 +42,7 @@
   <% } %>
 
   <!-- Custom CSS -->
-  <%- css('css/styles.css') %>
+  <link rel="stylesheet" href="<%- url_for('/css/styles.css') %>?v=<%= Date.now() %>">
 
   <!-- Google Analytics -->
   <%- partial('google-analytics') %>
