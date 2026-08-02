@@ -1,0 +1,20 @@
+<section class="gallery-page">
+  <header class="gallery-header">
+    <div>
+      <p class="eyebrow">JAPAN PHOTO GALLERY</p>
+      <h1><%- page.title %></h1>
+    </div>
+    <p class="gallery-count"><%= page.photo_count %> 张照片</p>
+  </header>
+
+  <div class="gallery-flow" aria-label="日本摄影画廊">
+    <% for (var i = 1; i <= Number(page.photo_count); i++) {
+      var number = String(i).padStart(3, '0');
+      var imageUrl = page.gallery_prefix + number + (page.gallery_extension || '.jpg');
+    %>
+      <a class="photo-tile gallery-item" href="<%- imageUrl %>" target="_blank" rel="noopener" aria-label="查看大图：日本画廊照片 <%= number %>">
+        <img src="<%- imageUrl %>" alt="日本画廊照片 <%= number %>" loading="<%= i <= 6 ? 'eager' : 'lazy' %>" decoding="async"<% if (i === 1) { %> fetchpriority="high"<% } %>>
+      </a>
+    <% } %>
+  </div>
+</section>

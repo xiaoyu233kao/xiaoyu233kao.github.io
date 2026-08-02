@@ -101,6 +101,7 @@ theme: edinburgh
 # Header navigation
 menu:
   日志: /
+  画廊: /gallery/
   关于: /about/
   归档: /archives/
 
