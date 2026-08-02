@@ -338,6 +338,7 @@ a { color: inherit; }
 
 .standard-page { max-width: 1040px; margin: 0 auto; }
 .standard-page-content { max-width: var(--content); margin: 0 auto; }
+.standard-page-content p { text-indent: 2em; }
 .standard-page-cover { margin-bottom: 64px; }
 .page-nav { margin-top: 80px; text-align: center; }
 .page-nav a, .page-nav span { display: inline-block; margin: 0 6px; padding: 7px 12px; color: var(--muted); font-size: .78rem; text-decoration: none; }
