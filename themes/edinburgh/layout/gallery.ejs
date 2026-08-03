@@ -1,20 +1,47 @@
+<%
+  var collections = [
+    {
+      name: '日本',
+      label: 'JAPAN',
+      count: Number(page.japan_photo_count),
+      prefix: page.japan_gallery_prefix
+    },
+    {
+      name: '俄罗斯',
+      label: 'RUSSIA',
+      count: Number(page.russia_photo_count),
+      prefix: page.russia_gallery_prefix
+    }
+  ];
+%>
+
 <section class="gallery-page">
   <header class="gallery-header">
     <div>
-      <p class="eyebrow">JAPAN PHOTO GALLERY</p>
+      <p class="eyebrow">PHOTO GALLERY</p>
       <h1><%- page.title %></h1>
     </div>
     <p class="gallery-count"><%= page.photo_count %> 张照片</p>
   </header>
 
-  <div class="gallery-flow" aria-label="日本摄影画廊">
-    <% for (var i = 1; i <= Number(page.photo_count); i++) {
-      var number = String(i).padStart(3, '0');
-      var imageUrl = page.gallery_prefix + number + (page.gallery_extension || '.jpg');
-    %>
-      <a class="photo-tile gallery-item" href="<%- imageUrl %>" target="_blank" rel="noopener" aria-label="查看大图：日本画廊照片 <%= number %>">
-        <img src="<%- imageUrl %>" alt="日本画廊照片 <%= number %>" loading="<%= i <= 6 ? 'eager' : 'lazy' %>" decoding="async"<% if (i === 1) { %> fetchpriority="high"<% } %>>
-      </a>
-    <% } %>
-  </div>
+  <% collections.forEach(function(collection, collectionIndex) { %>
+    <section class="gallery-collection" aria-labelledby="gallery-collection-<%= collectionIndex %>">
+      <header class="gallery-collection-header">
+        <h2 id="gallery-collection-<%= collectionIndex %>"><%= collection.name %></h2>
+        <p><%= collection.label %> · <%= collection.count %> 张</p>
+      </header>
+
+      <div class="gallery-flow" aria-label="<%= collection.name %>摄影画廊">
+        <% for (var i = 1; i <= collection.count; i++) {
+          var number = String(i).padStart(3, '0');
+          var imageUrl = collection.prefix + number + (page.gallery_extension || '.jpg');
+          var isPriorityImage = collectionIndex === 0 && i <= 6;
+        %>
+          <a class="photo-tile gallery-item" href="<%- imageUrl %>" target="_blank" rel="noopener" aria-label="查看大图：<%= collection.name %>画廊照片 <%= number %>">
+            <img src="<%- imageUrl %>" alt="<%= collection.name %>画廊照片 <%= number %>" loading="<%= isPriorityImage ? 'eager' : 'lazy' %>" decoding="async"<% if (collectionIndex === 0 && i === 1) { %> fetchpriority="high"<% } %>>
+          </a>
+        <% } %>
+      </div>
+    </section>
+  <% }); %>
 </section>

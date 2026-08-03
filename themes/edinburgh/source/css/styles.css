@@ -367,6 +367,28 @@ a { color: inherit; }
   letter-spacing: .12em;
   white-space: nowrap;
 }
+.gallery-collection + .gallery-collection { margin-top: 88px; }
+.gallery-collection-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 24px;
+  margin-bottom: 22px;
+}
+.gallery-collection-header h2 {
+  margin: 0;
+  font-family: Georgia, "Songti SC", serif;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1;
+}
+.gallery-collection-header p {
+  margin: 0;
+  color: var(--muted);
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  font-size: .68rem;
+  letter-spacing: .12em;
+}
 .gallery-flow {
   columns: 3 300px;
   column-gap: 14px;
@@ -468,6 +490,10 @@ a { color: inherit; }
   .gallery-header { display: block; margin: 0 0 24px; padding-bottom: 18px; }
   .gallery-header h1 { font-size: clamp(2.6rem, 16vw, 4rem); }
   .gallery-count { margin-top: 12px; }
+  .gallery-collection + .gallery-collection { margin-top: 56px; }
+  .gallery-collection-header { margin-bottom: 16px; }
+  .gallery-collection-header h2 { font-size: 1.7rem; }
+  .gallery-collection-header p { font-size: .64rem; }
   .gallery-flow { columns: 1; column-gap: 0; }
   .gallery-item { margin-bottom: 10px; }
   .site-footer { margin: 0 20px; padding: 28px 0 36px; display: block; }
