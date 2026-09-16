@@ -1,17 +1,22 @@
-<% var allPosts = site.posts && site.posts.toArray ? site.posts.toArray() : []; %>
-<% var totalPhotos = allPosts.reduce(function(total, post){ return total + Number(post.photo_count || 0); }, 0); %>
+<%
+  var allPosts = site.posts && site.posts.toArray ? site.posts.toArray() : [];
+  var travelPosts = allPosts.filter(function(post){
+    return post.categories && post.categories.toArray && post.categories.toArray().some(function(category){ return category.name === '旅行'; });
+  });
+  var totalPhotos = travelPosts.reduce(function(total, post){ return total + Number(post.photo_count || 0); }, 0);
+%>
 <section class="journal-intro" aria-labelledby="journal-title">
   <p class="eyebrow">PHOTO JOURNAL · SINCE 2025</p>
   <h1 id="journal-title"><%- config.subtitle %></h1>
   <p class="journal-intro-copy"><%- config.description %></p>
   <p class="journal-intro-note">
-    <span><%= allPosts.length %> 篇日志<% if (totalPhotos) { %> · <%= totalPhotos %> 张照片<% } %></span>
+    <span><%= travelPosts.length %> 篇旅行<% if (totalPhotos) { %> · <%= totalPhotos %> 张照片<% } %></span>
     <span>按拍摄与记录时间倒序排列</span>
   </p>
 </section>
 
-<section class="portfolio-grid" aria-label="摄影日志">
-  <% page.posts.forEach(function(item, index){ %>
+<section class="portfolio-grid" aria-label="旅行记录">
+  <% travelPosts.forEach(function(item, index){ %>
     <%- partial('_partial/portfolio-index', { item: item, index: index, featured: index === 0 && page.current === 1 }) %>
   <% }); %>
 </section>
