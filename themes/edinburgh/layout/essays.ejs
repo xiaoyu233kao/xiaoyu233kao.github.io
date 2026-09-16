@@ -2,7 +2,7 @@
   var allPosts = site.posts && site.posts.toArray ? site.posts.toArray() : [];
   var essays = allPosts.filter(function(post){
     return post.categories && post.categories.toArray && post.categories.toArray().some(function(category){ return category.name === '随笔'; });
-  });
+  }).sort(function(a, b){ return b.date.valueOf() - a.date.valueOf(); });
 %>
 
 <section class="essays-page">
