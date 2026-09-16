@@ -4,13 +4,15 @@
       name: '日本',
       label: 'JAPAN',
       count: Number(page.japan_photo_count),
-      prefix: page.japan_gallery_prefix
+      prefix: page.japan_gallery_prefix,
+      dimensions: site.data.gallery_dimensions.japan
     },
     {
       name: '俄罗斯',
       label: 'RUSSIA',
       count: Number(page.russia_photo_count),
-      prefix: page.russia_gallery_prefix
+      prefix: page.russia_gallery_prefix,
+      dimensions: site.data.gallery_dimensions.russia
     }
   ];
 %>
@@ -36,9 +38,12 @@
           var number = String(i).padStart(3, '0');
           var imageUrl = collection.prefix + number + (page.gallery_extension || '.jpg');
           var isPriorityImage = collectionIndex === 0 && i <= 6;
+          var dimensions = (collection.dimensions[i - 1] || '3x2').split('x');
+          var imageWidth = Number(dimensions[0]);
+          var imageHeight = Number(dimensions[1]);
         %>
-          <a class="photo-tile gallery-item" href="<%- imageUrl %>" target="_blank" rel="noopener" aria-label="查看大图：<%= collection.name %>画廊照片 <%= number %>">
-            <img src="<%- imageUrl %>" alt="<%= collection.name %>画廊照片 <%= number %>" loading="<%= isPriorityImage ? 'eager' : 'lazy' %>" decoding="async"<% if (collectionIndex === 0 && i === 1) { %> fetchpriority="high"<% } %>>
+          <a class="photo-tile gallery-item" href="<%- imageUrl %>" target="_blank" rel="noopener" aria-label="查看大图：<%= collection.name %>画廊照片 <%= number %>" style="--gallery-aspect: <%= imageWidth %> / <%= imageHeight %>">
+            <img src="<%- imageUrl %>" alt="<%= collection.name %>画廊照片 <%= number %>" width="<%= imageWidth %>" height="<%= imageHeight %>" loading="<%= isPriorityImage ? 'eager' : 'lazy' %>" decoding="async"<% if (collectionIndex === 0 && i === 1) { %> fetchpriority="high"<% } %>>
           </a>
         <% } %>
       </div>

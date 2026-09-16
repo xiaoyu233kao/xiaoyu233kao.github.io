@@ -444,6 +444,7 @@ a { color: inherit; }
 .gallery-item {
   display: inline-block;
   width: 100%;
+  aspect-ratio: var(--gallery-aspect, 3 / 2);
   margin: 0 0 14px;
   break-inside: avoid;
   vertical-align: top;
