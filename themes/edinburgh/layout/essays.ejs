@@ -1,0 +1,26 @@
+<%
+  var allPosts = site.posts && site.posts.toArray ? site.posts.toArray() : [];
+  var essays = allPosts.filter(function(post){
+    return post.categories && post.categories.toArray && post.categories.toArray().some(function(category){ return category.name === '随笔'; });
+  });
+%>
+
+<section class="essays-page">
+  <header class="collection-header essays-header">
+    <p class="eyebrow">ESSAYS & NOTES</p>
+    <h1><%- page.title %></h1>
+    <p>一些关于生活、选择和当下的记录。</p>
+  </header>
+
+  <section class="essay-list" aria-label="随笔列表">
+    <% essays.forEach(function(item){ %>
+      <article class="essay-list-item">
+        <time datetime="<%- date_xml(item.date) %>"><%- date(item.date, config.date_format) %></time>
+        <div>
+          <h2><a href="<%- url_for(item.path) %>"><%- item.title || theme.default_post_title || 'Untitled' %></a></h2>
+          <% if (item.excerpt) { %><p><%- strip_html(item.excerpt) %></p><% } %>
+        </div>
+      </article>
+    <% }); %>
+  </section>
+</section>

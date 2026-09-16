@@ -341,6 +341,54 @@ a { color: inherit; }
 .standard-page-content p { text-indent: 2em; }
 .standard-page-cover { margin-bottom: 64px; }
 
+.essays-page { max-width: 980px; margin: 0 auto; }
+.essays-header { margin-bottom: 54px; }
+.essay-list { border-top: 1px solid var(--line); }
+.essay-list-item {
+  display: grid;
+  grid-template-columns: 145px minmax(0, 1fr);
+  gap: 32px;
+  padding: 30px 0;
+  border-bottom: 1px solid var(--line);
+}
+.essay-list-item time {
+  padding-top: 8px;
+  color: var(--muted);
+  font-size: .72rem;
+  letter-spacing: .08em;
+}
+.essay-list-item h2 {
+  margin: 0;
+  font-family: Georgia, "Songti SC", serif;
+  font-size: 1.85rem;
+  font-weight: 400;
+  line-height: 1.35;
+}
+.essay-list-item h2 a { text-decoration: none; }
+.essay-list-item p {
+  max-width: 680px;
+  margin: 10px 0 0;
+  color: var(--muted);
+  font-family: Georgia, "Songti SC", serif;
+  font-size: .92rem;
+  line-height: 1.8;
+}
+.essay-entry { max-width: 920px; margin: 0 auto; }
+.essay-entry-header { margin: 18px 0 64px; padding-bottom: 32px; border-bottom: 1px solid var(--line); }
+.essay-entry-header h1 {
+  margin: 12px 0 0;
+  font-family: Georgia, "Songti SC", serif;
+  font-size: clamp(3.4rem, 8vw, 6rem);
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -.04em;
+}
+.essay-content { max-width: 760px; margin: 0 auto; }
+.essay-content p { text-indent: 2em; }
+.essay-back { max-width: 760px; margin: 72px auto 0; padding-top: 20px; border-top: 1px solid var(--line); }
+.essay-back a { color: var(--muted); font-size: .76rem; letter-spacing: .08em; text-decoration: none; }
+.essay-back a::before { content: "← "; }
+
 .gallery-page { max-width: var(--shell); margin: 0 auto; }
 .gallery-header {
   display: flex;
@@ -487,6 +535,13 @@ a { color: inherit; }
   .lightbox-close { top: 8px; right: 10px; }
   .archive-item { grid-template-columns: 1fr; gap: 3px; padding: 22px 0; }
   .archive-item p { text-align: left; }
+  .essay-list-item { grid-template-columns: 1fr; gap: 6px; padding: 24px 0; }
+  .essay-list-item time { padding-top: 0; }
+  .essay-list-item h2 { font-size: 1.6rem; }
+  .essay-entry-header { margin: 0 0 40px; padding-bottom: 24px; }
+  .essay-entry-header h1 { font-size: clamp(3rem, 18vw, 4.5rem); }
+  .essay-content { font-size: 1rem; line-height: 2; }
+  .essay-back { margin-top: 52px; }
   .gallery-header { display: block; margin: 0 0 24px; padding-bottom: 18px; }
   .gallery-header h1 { font-size: clamp(2.6rem, 16vw, 4rem); }
   .gallery-count { margin-top: 12px; }

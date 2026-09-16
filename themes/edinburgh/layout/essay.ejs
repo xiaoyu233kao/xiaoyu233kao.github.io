@@ -1,0 +1,16 @@
+<article class="essay-entry">
+  <header class="essay-entry-header">
+    <p class="entry-kicker">
+      <time datetime="<%- date_xml(page.date) %>"><%- date(page.date, config.date_format) %></time>
+      <span aria-hidden="true">/</span>
+      随笔
+    </p>
+    <h1><%- page.title || theme.default_post_title || 'Untitled' %></h1>
+  </header>
+
+  <div class="portfolio-content essay-content"><%- page.content %></div>
+
+  <p class="essay-back"><a href="<%- url_for('/essays/') %>">返回随笔</a></p>
+
+  <%- partial('_partial/giscus', { item: page }) %>
+</article>
