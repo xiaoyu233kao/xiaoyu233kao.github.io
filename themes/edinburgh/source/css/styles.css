@@ -353,9 +353,14 @@ a { color: inherit; }
 }
 .essay-list-item time {
   padding-top: 8px;
-  color: var(--muted);
-  font-size: .72rem;
-  letter-spacing: .08em;
+}
+.essay-date {
+  color: var(--accent);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: .86rem;
+  font-weight: 600;
+  letter-spacing: .1em;
+  font-variant-numeric: tabular-nums;
 }
 .essay-list-item h2 {
   margin: 0;
@@ -375,6 +380,7 @@ a { color: inherit; }
 }
 .essay-entry { max-width: 920px; margin: 0 auto; }
 .essay-entry-header { margin: 18px 0 64px; padding-bottom: 32px; border-bottom: 1px solid var(--line); }
+.essay-entry-header .essay-date { font-size: .9rem; }
 .essay-entry-header h1 {
   margin: 12px 0 0;
   font-family: Georgia, "Songti SC", serif;

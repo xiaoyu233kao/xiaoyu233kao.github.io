@@ -15,7 +15,7 @@
   <section class="essay-list" aria-label="随笔列表">
     <% essays.forEach(function(item){ %>
       <article class="essay-list-item">
-        <time datetime="<%- date_xml(item.date) %>"><%- date(item.date, config.date_format) %></time>
+        <time class="essay-date" datetime="<%- date_xml(item.date) %>"><%- date(item.date, config.date_format) %></time>
         <div>
           <h2><a href="<%- url_for(item.path) %>"><%- item.title || theme.default_post_title || 'Untitled' %></a></h2>
           <% if (item.excerpt) { %><p><%- strip_html(item.excerpt) %></p><% } %>
