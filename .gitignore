@@ -5,3 +5,6 @@ db.json
 .DS_Store
 npm-debug.log*
 pnpm-debug.log*
+/素材与历史/
+__pycache__/
+*.pyc
