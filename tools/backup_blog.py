@@ -22,17 +22,75 @@ def sha256(path):
         return hashlib.file_digest(stream, "sha256").hexdigest()
 
 
-def gh(arguments, proxy=None):
+def gh(arguments, proxy=None, payload=None):
     environment = os.environ.copy()
     if proxy:
         environment.update(HTTPS_PROXY=proxy, HTTP_PROXY=proxy)
     result = subprocess.run(
         ["gh", *arguments], env=environment, capture_output=True, text=True,
         encoding="utf-8", errors="replace", check=False,
+        input=json.dumps(payload, ensure_ascii=False) if payload is not None else None,
     )
     if result.returncode:
         raise RuntimeError(f"GitHub command failed: {result.stderr.strip()}")
     return result.stdout
+
+
+def sync_private_essays(root, repo, proxy):
+    """Mirror private Markdown to the private backup repository, never to Pages."""
+    folder = root / "私人随笔"
+    if not folder.exists():
+        return None
+    metadata = json.loads(gh(["api", f"repos/{repo}"], proxy))
+    if not metadata["private"]:
+        raise RuntimeError("Private essays may only be synced to a private repository")
+    if folder.is_symlink() or folder.is_junction():
+        raise RuntimeError("Private essay folder must not be a directory link")
+    files = sorted(folder.glob("*.md"))
+    if not files:
+        raise RuntimeError("Private essay folder contains no Markdown files")
+    desired = {}
+    updates = []
+    for path in files:
+        if path.is_symlink() or not path.is_file():
+            raise RuntimeError(f"Unexpected private essay entry: {path.name}")
+        data = path.read_bytes()
+        remote_path = "essays/" + path.name
+        digest = hashlib.sha1(b"blob " + str(len(data)).encode() + b"\0" + data).hexdigest()
+        desired[remote_path] = digest
+        updates.append({"path": remote_path, "mode": "100644", "type": "blob",
+                        "content": data.decode("utf-8")})
+    branch = metadata["default_branch"]
+    reference = json.loads(gh(["api", f"repos/{repo}/git/ref/heads/{branch}"], proxy))
+    head = reference["object"]["sha"]
+    commit = json.loads(gh(["api", f"repos/{repo}/git/commits/{head}"], proxy))
+    tree = json.loads(gh(["api", f"repos/{repo}/git/trees/{commit['tree']['sha']}?recursive=1"], proxy))
+    if tree.get("truncated"):
+        raise RuntimeError("Private repository tree was truncated")
+    existing = {item["path"]: item["sha"] for item in tree["tree"]
+                if item["type"] == "blob" and item["path"].startswith("essays/")}
+    if existing != desired:
+        for name in existing.keys() - desired.keys():
+            updates.append({"path": name, "mode": "100644", "type": "blob", "sha": None})
+        new_tree = json.loads(gh(
+            ["api", "--method", "POST", f"repos/{repo}/git/trees", "--input", "-"], proxy,
+            {"base_tree": commit["tree"]["sha"], "tree": updates}))
+        new_commit = json.loads(gh(
+            ["api", "--method", "POST", f"repos/{repo}/git/commits", "--input", "-"], proxy,
+            {"message": "Sync private essays", "tree": new_tree["sha"], "parents": [head]}))
+        gh(["api", "--method", "PATCH", f"repos/{repo}/git/refs/heads/{branch}", "--input", "-"],
+           proxy, {"sha": new_commit["sha"], "force": False})
+        head = new_commit["sha"]
+        verified_tree = json.loads(gh(
+            ["api", f"repos/{repo}/git/trees/{new_tree['sha']}?recursive=1"], proxy))
+        actual = {item["path"]: item["sha"] for item in verified_tree["tree"]
+                  if item["type"] == "blob" and item["path"].startswith("essays/")}
+        if actual != desired:
+            raise RuntimeError("Private essay sync verification failed")
+    result = {"url": f"https://github.com/{repo}/tree/{branch}/essays",
+              "file_count": len(files), "commit": head, "verified": True}
+    print(f"Private essay Markdown verified: {len(files)} files", flush=True)
+    return result
 
 
 def walk(root):
@@ -232,6 +290,10 @@ def main():
     backup_parser.add_argument("--repo", default=DEFAULT_REPO)
     backup_parser.add_argument("--proxy", default="http://127.0.0.1:7890")
     backup_parser.add_argument("--offline", action="store_true")
+    sync_parser = subparsers.add_parser("sync-essays", help="Sync private Markdown for signed-in reading")
+    sync_parser.add_argument("--root", type=Path, default=Path(r"D:\blog-site"))
+    sync_parser.add_argument("--repo", default=DEFAULT_REPO)
+    sync_parser.add_argument("--proxy", default="http://127.0.0.1:7890")
     resume_parser = subparsers.add_parser("resume", help="Verify an already uploaded draft snapshot")
     resume_parser.add_argument("archive", type=Path)
     resume_parser.add_argument("--output", type=Path, default=Path(r"D:\codex\blog-backup"))
@@ -244,12 +306,19 @@ def main():
     if arguments.command == "restore":
         restore(arguments.archive, arguments.destination)
         return
+    if arguments.command == "sync-essays":
+        print(json.dumps(sync_private_essays(arguments.root, arguments.repo, arguments.proxy),
+                         ensure_ascii=False, indent=2))
+        return
+    private_essays = None
     if arguments.command == "resume":
         archive = arguments.archive
         manifest = verify_archive(archive)
         digest = sha256(archive)
         release = verify_release(archive, manifest, digest, arguments.repo, arguments.proxy)
     else:
+        if not arguments.offline:
+            private_essays = sync_private_essays(arguments.root, arguments.repo, arguments.proxy)
         stamp = datetime.now(HK).strftime("%Y%m%d-%H%M%S-%f")
         archive, checksum, manifest, digest = create_archive(arguments.root, arguments.output / stamp)
         release = None
@@ -259,6 +328,7 @@ def main():
         "archive": str(archive), "sha256": digest, "file_count": manifest["file_count"],
         "total_bytes": manifest["total_bytes"], "release": release,
         "remote_verified": bool(release), "created_at": manifest["created_at"],
+        "private_essays": private_essays,
     }
     (archive.parent / "backup-result.json").write_text(
         json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")

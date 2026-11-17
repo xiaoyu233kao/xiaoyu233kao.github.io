@@ -6,5 +6,6 @@ db.json
 npm-debug.log*
 pnpm-debug.log*
 /素材与历史/
+/私人随笔/
 __pycache__/
 *.pyc
