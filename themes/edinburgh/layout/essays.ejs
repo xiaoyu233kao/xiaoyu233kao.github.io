@@ -2,7 +2,9 @@
   var allPosts = site.posts && site.posts.toArray ? site.posts.toArray() : [];
   var essays = allPosts.filter(function(post){
     return post.categories && post.categories.toArray && post.categories.toArray().some(function(category){ return category.name === '随笔'; });
-  }).sort(function(a, b){ return b.date.valueOf() - a.date.valueOf(); });
+  }).concat(site.data.private_essays || []).sort(function(a, b){
+    return new Date(b.date).valueOf() - new Date(a.date).valueOf();
+  });
 %>
 
 <section class="essays-page">
@@ -17,7 +19,7 @@
       <article class="essay-list-item">
         <time class="essay-date" datetime="<%- date_xml(item.date) %>"><%- date(item.date, config.date_format) %></time>
         <div>
-          <h2><a href="<%- url_for(item.path) %>"><%- item.title || theme.default_post_title || 'Untitled' %></a></h2>
+          <h2><a href="<%= item.external_url || url_for(item.path) %>"<% if (item.external_url) { %> target="_blank" rel="noopener" aria-label="<%= item.title %>（私有文章）"<% } %>><%= item.title || theme.default_post_title || 'Untitled' %></a></h2>
           <% if (item.excerpt) { %><p><%- strip_html(item.excerpt) %></p><% } %>
         </div>
       </article>

@@ -1,14 +1,15 @@
 'use strict';
 
-// Private essays must never enter public posts, archives, tags or generated pages.
+// Public essays are allowed, but the private article must never enter the build.
 hexo.extend.filter.register('before_generate', function () {
-  const posts = hexo.locals.get('posts').toArray();
-  const pages = hexo.locals.get('pages').toArray();
+  const posts = hexo.model('Post').toArray();
+  const pages = hexo.model('Page').toArray();
   const isPrivateEssay = item =>
-    item.layout === 'essay' || item.layout === 'essays' ||
-    /^essays(?:\/|$)/.test(item.path || '') ||
-    (item.categories && item.categories.toArray().some(category => category.name === '随笔'));
+    item.private === true || item.title === '关键节点' ||
+    /(?:^|[\\/])essay-2026-09-12\.md$/.test(item.source || '') ||
+    /^essays\/2026-09-12(?:\/|$)/.test(item.path || '') ||
+    /^essays\/2026-09-12(?:\/|$)/.test(item.permalink || '');
   if (posts.concat(pages).some(isPrivateEssay)) {
-    throw new Error('随笔为私人内容，请存入根目录“私人随笔”，不能放在公开 source 中。');
+    throw new Error('《关键节点》及标记 private 的文章为私人内容，只能存入根目录“私人随笔”。');
   }
 });
