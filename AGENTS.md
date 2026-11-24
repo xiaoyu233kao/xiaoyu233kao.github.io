@@ -34,4 +34,4 @@
 - 完整备份脚本会先同步 `私人随笔` 中的 Markdown 到私有仓库 `xiaoyu233kao/blog-site-backup` 的 `essays` 目录并验证，再生成私有快照。修改私人正文时只在本地私有目录和私有备份仓库保存，公开工作日志只写操作摘要，不能引用私人正文。
 - 之前公开过的 Git 历史、PR、缓存和下载副本不会随网页下架自动消失。未明确获得重写历史的授权时，不执行强制推送、历史改写或删除旧提交。
 
-- 归档通过 `scripts/private-essay-archives.js` 合并 `private_essays.yml` 的标题、日期和链接，并沿用 Hexo 的排序、分页及年月分组；不能为补齐归档把私人文章插入公开 Post 模型或生成公开正文页。
+- 归档及 `随笔` 分类页通过 `scripts/private-essay-archives.js` 合并 `private_essays.yml` 的标题、日期和链接，并沿用 Hexo 的排序、分页及年月分组；不能为补齐归档把私人文章插入公开 Post 模型或生成公开正文页。

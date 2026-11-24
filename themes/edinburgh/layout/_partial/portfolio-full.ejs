@@ -10,11 +10,14 @@
     <h1><%- item.title || theme.default_post_title || 'Untitled' %></h1>
   </header>
 
-  <figure class="entry-cover">
-    <a class="entry-cover-link" href="<%- url_for(item.cover_image || theme.default_cover_image) %>" target="_blank" rel="noopener" aria-label="查看大图：<%- item.title || theme.default_post_title || 'Untitled' %>">
-      <img class="project-img" src="<%- url_for(item.cover_image || theme.default_cover_image) %>" alt="<%- item.title || theme.default_post_title || 'Untitled' %>">
-    </a>
-  </figure>
+  <% var coverImage = item.cover_image || theme.default_cover_image; %>
+  <% if (coverImage) { %>
+    <figure class="entry-cover">
+      <a class="entry-cover-link" href="<%- url_for(coverImage) %>" target="_blank" rel="noopener" aria-label="查看大图：<%- item.title || theme.default_post_title || 'Untitled' %>">
+        <img class="project-img" src="<%- url_for(coverImage) %>" alt="<%- item.title || theme.default_post_title || 'Untitled' %>">
+      </a>
+    </figure>
+  <% } %>
 
   <% if (item.route || item.photo_count || item.medium) { %>
     <dl class="entry-facts" aria-label="本篇日志信息">

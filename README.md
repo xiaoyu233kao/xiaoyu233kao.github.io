@@ -1,6 +1,6 @@
 # 烤鱼日常
 
-基于 Hexo 7 与定制 Edinburgh 主题的个人摄影日志与随笔站点，发布于 GitHub Pages：https://xiaoyu233kao.github.io/ 。
+基于 Hexo 8 与定制 Edinburgh 主题的个人摄影日志与随笔站点，发布于 GitHub Pages：https://xiaoyu233kao.github.io/ 。
 
 ## 内容结构
 

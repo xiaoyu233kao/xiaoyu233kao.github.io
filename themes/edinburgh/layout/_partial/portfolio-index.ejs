@@ -1,10 +1,13 @@
+<% var coverImage = item.cover_image || theme.default_cover_image; %>
 <article class="portfolio-card<%= featured ? ' portfolio-card-featured' : '' %>">
-  <div class="portfolio-image-wrap">
-    <a class="portfolio-image-link" href="<%- url_for(item.path) %>" aria-label="查看：<%- item.title %>">
-      <img class="portfolio-img" src="<%- url_for(item.cover_image || theme.default_cover_image) %>" alt="<%- item.title || theme.default_post_title || 'Untitled' %>" loading="<%= featured ? 'eager' : 'lazy' %>">
-    </a>
-    <span class="portfolio-sequence" aria-hidden="true"><%= String((index || 0) + 1).padStart(2, '0') %></span>
-  </div>
+  <% if (coverImage) { %>
+    <div class="portfolio-image-wrap">
+      <a class="portfolio-image-link" href="<%- url_for(item.path) %>" aria-label="查看：<%- item.title %>">
+        <img class="portfolio-img" src="<%- url_for(coverImage) %>" alt="<%- item.title || theme.default_post_title || 'Untitled' %>" loading="<%= featured ? 'eager' : 'lazy' %>">
+      </a>
+      <span class="portfolio-sequence" aria-hidden="true"><%= String((index || 0) + 1).padStart(2, '0') %></span>
+    </div>
+  <% } %>
   <div class="portfolio-meta">
     <time datetime="<%- date_xml(item.date) %>"><%- date(item.date, config.date_format) %></time>
     <% if (item.categories && item.categories.length) { %>
