@@ -35,3 +35,10 @@
 - 之前公开过的 Git 历史、PR、缓存和下载副本不会随网页下架自动消失。未明确获得重写历史的授权时，不执行强制推送、历史改写或删除旧提交。
 
 - 归档及 `随笔` 分类页通过 `scripts/private-essay-archives.js` 合并 `private_essays.yml` 的标题、日期和链接，并沿用 Hexo 的排序、分页及年月分组；不能为补齐归档把私人文章插入公开 Post 模型或生成公开正文页。
+
+## 图片与图床约定
+
+- 用户于 2026-11-25 明确要求：以后所有文章与画廊照片都统一上传至 GitHub 图床仓库 `xiaoyu233kao/picgo-bed`，并通过 `https://raw.githubusercontent.com/xiaoyu233kao/picgo-bed/main/<文件名>` 引用，这样即使本地照片误删除也不会影响线上网站。
+- `source/images` 仅保留站点 Logo 等界面静态图标（当前仅 `site-logo.svg`），不再向 `source/images` 存放或新增摄影照片。
+- 上传至 `picgo-bed` 的文件仅限拟公开展示的照片，统一使用小写扩展名 `.jpg` 与语义化命名；严禁把私人随笔或未公开素材上传至公开图床。
+- 新增画廊图片时，同步维护 `source/gallery/index.md` 中的照片数量/前缀及 `source/_data/gallery_dimensions.json` 中的对应像素尺寸。

@@ -4,7 +4,7 @@
 
 ## 内容结构
 
-- **旅行**（首页 `/`）：位于 `source/_posts/`，使用 `旅行` 分类，配合本地图片或图床 `xiaoyu233kao/picgo-bed` 展示。
+- **旅行**（首页 `/`）：位于 `source/_posts/`，使用 `旅行` 分类，所有配图统一托管于图床 `xiaoyu233kao/picgo-bed` 引用（`source/images/` 仅保留站点 Logo 等界面图标）。
 - **画廊**（`/gallery/`）：由 `source/gallery/index.md` 配置照片数量与图床前缀，尺寸占位信息维护在 `source/_data/gallery_dimensions.json`。
 - **随笔**（`/essays/`）：公开随笔位于 `source/_posts/`（使用 `layout: essay` 与 `随笔` 分类）；仅作者可见的私人随笔保存在本地 `私人随笔/`（由 `.gitignore` 排除，仅同步至私有备份仓库），公开列表与归档通过 `source/_data/private_essays.yml` 仅保留标题、日期与私有链接。
 - **关于 / 归档**（`/about/`、`/archives/`）：关于正文位于 `source/about/index.md`；归档通过 `scripts/private-essay-archives.js` 合并私有随笔外链。
